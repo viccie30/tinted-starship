@@ -1,0 +1,105 @@
+[palettes.{{ scheme.system }}-{{ scheme.slug }}]
+# {{ scheme.name }}
+{{# scheme.description }}
+# Description: {{ scheme.description }}
+{{/ scheme.description }}
+# Author: {{ scheme.author }}
+{{# scheme.theme-author }}
+# Theme author: {{ scheme.theme-author }}
+{{/ scheme.theme-author }}
+{{# scheme.family }}
+# Family: {{ scheme.family }}
+{{/ scheme.family }}
+{{# scheme.style }}
+# Style: {{ scheme.style }}
+{{/ scheme.style }}
+# Variant: {{ variant }}
+# System: {{ scheme.system }}
+
+# Background and foreground
+background-most-extreme = '#{{# option.is-dark-variant }}{{ palette.black.dim.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.white.bright.hex }}{{/ option.is-dark-variant }}' # Fallback
+background-extreme = '#{{# option.is-dark-variant }}{{ palette.black.dim.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.white.bright.hex }}{{/ option.is-dark-variant }}'
+background = '#{{# option.is-dark-variant }}{{ palette.black.normal.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.white.normal.hex }}{{/ option.is-dark-variant }}'
+background-less-extreme = '#{{# option.is-dark-variant }}{{ palette.black.bright.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.white.dim.hex }}{{/ option.is-dark-variant }}'
+background-least-extreme = '#{{# option.is-dark-variant }}{{ palette.gray.dim.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.gray.bright.hex }}{{/ option.is-dark-variant }}'
+
+foreground-least-extreme = '#{{# option.is-dark-variant }}{{ palette.gray.bright.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.gray.dim.hex }}{{/ option.is-dark-variant }}'
+foreground-less-extreme = '#{{# option.is-dark-variant }}{{ palette.white.dim.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.black.bright.hex }}{{/ option.is-dark-variant }}'
+foreground = '#{{# option.is-dark-variant }}{{ palette.white.normal.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.black.normal.hex }}{{/ option.is-dark-variant }}'
+foreground-extreme = '#{{# option.is-dark-variant }}{{ palette.white.bright.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.black.dim.hex }}{{/ option.is-dark-variant }}'
+foreground-most-extreme = '#{{# option.is-dark-variant }}{{ palette.white.bright.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.black.dim.hex }}{{/ option.is-dark-variant }}' # Fallback
+
+# Tinted8
+palette-black = '#{{ palette.black.normal.hex }}'
+palette-red = '#{{ palette.red.normal.hex }}'
+palette-green = '#{{ palette.green.normal.hex }}'
+palette-yellow = '#{{ palette.yellow.normal.hex }}'
+palette-blue = '#{{ palette.blue.normal.hex }}'
+palette-magenta = '#{{ palette.magenta.normal.hex }}'
+palette-cyan = '#{{ palette.cyan.normal.hex }}'
+palette-white = '#{{ palette.white.normal.hex }}'
+palette-gray = '#{{ palette.gray.normal.hex }}'
+palette-orange = '#{{ palette.orange.normal.hex }}'
+palette-brown = '#{{ palette.brown.normal.hex }}'
+
+palette-black-bright = '#{{ palette.black.bright.hex }}'
+palette-red-bright = '#{{ palette.red.bright.hex }}'
+palette-green-bright = '#{{ palette.green.bright.hex }}'
+palette-yellow-bright = '#{{ palette.yellow.bright.hex }}'
+palette-blue-bright = '#{{ palette.blue.bright.hex }}'
+palette-magenta-bright = '#{{ palette.magenta.bright.hex }}'
+palette-cyan-bright = '#{{ palette.cyan.bright.hex }}'
+palette-white-bright = '#{{ palette.white.bright.hex }}'
+palette-gray-bright = '#{{ palette.gray.bright.hex }}'
+palette-orange-bright = '#{{ palette.orange.bright.hex }}'
+palette-brown-bright = '#{{ palette.brown.bright.hex }}'
+
+palette-black-dim = '#{{ palette.black.dim.hex }}'
+palette-red-dim = '#{{ palette.red.dim.hex }}'
+palette-green-dim = '#{{ palette.green.dim.hex }}'
+palette-yellow-dim = '#{{ palette.yellow.dim.hex }}'
+palette-blue-dim = '#{{ palette.blue.dim.hex }}'
+palette-magenta-dim = '#{{ palette.magenta.dim.hex }}'
+palette-cyan-dim = '#{{ palette.cyan.dim.hex }}'
+palette-white-dim = '#{{ palette.white.dim.hex }}'
+palette-gray-dim = '#{{ palette.gray.dim.hex }}'
+palette-orange-dim = '#{{ palette.orange.dim.hex }}'
+palette-brown-dim = '#{{ palette.brown.dim.hex }}'
+
+ui-global-dark-background = '#{{ ui.global.dark.background }}'
+ui-global-dark-foreground = '#{{ ui.global.dark.foreground }}'
+ui-global-light-background = '#{{ ui.global.light.background }}'
+ui-global-light-foreground = '#{{ ui.global.light.foreground }}'
+ui-global-normal-background = '#{{ ui.global.normal.background }}'
+ui-global-normal-foreground = '#{{ ui.global.normal.foreground }}'
+
+ui-status-error = '#{{ ui.status.error }}'
+ui-status-info = '#{{ ui.status.info }}'
+ui-status-success = '#{{ ui.status.success }}'
+ui-status-warning = '#{{ ui.status.warning }}'
+
+# Base24 compatibility
+base00 = '#{{# option.is-dark-variant }}{{ palette.black.normal.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.white.normal.hex }}{{/ option.is-dark-variant }}'
+base01 = '#{{# option.is-dark-variant }}{{ palette.black.bright.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.white.dim.hex }}{{/ option.is-dark-variant }}'
+base02 = '#{{# option.is-dark-variant }}{{ palette.gray.dim.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.gray.bright.hex }}{{/ option.is-dark-variant }}'
+base03 = '#{{ palette.gray.normal.hex }}'
+base04 = '#{{# option.is-dark-variant }}{{ palette.gray.bright.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.gray.dim.hex }}{{/ option.is-dark-variant }}'
+base05 = '#{{# option.is-dark-variant }}{{ palette.white.dim.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.black.bright.hex }}{{/ option.is-dark-variant }}'
+base06 = '#{{# option.is-dark-variant }}{{ palette.white.normal.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.black.normal.hex }}{{/ option.is-dark-variant }}'
+base07 = '#{{# option.is-dark-variant }}{{ palette.white.bright.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.black.dim.hex }}{{/ option.is-dark-variant }}'
+base08 = '#{{ palette.red.normal.hex }}'
+base09 = '#{{ palette.orange.normal.hex }}'
+base0A = '#{{ palette.yellow.normal.hex }}'
+base0B = '#{{ palette.green.normal.hex }}'
+base0C = '#{{ palette.cyan.normal.hex }}'
+base0D = '#{{ palette.blue.normal.hex }}'
+base0E = '#{{ palette.magenta.normal.hex }}'
+base0F = '#{{ palette.brown.normal.hex }}'
+base10 = '#{{# option.is-dark-variant }}{{ palette.black.dim.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.white.bright.hex }}{{/ option.is-dark-variant }}'
+base11 = '#{{# option.is-dark-variant }}{{ palette.black.dim.hex }}{{/ option.is-dark-variant }}{{^ option.is-dark-variant }}{{ palette.white.bright.hex }}{{/ option.is-dark-variant }}' # Fallback
+base12 = '#{{ palette.red.bright.hex }}'
+base13 = '#{{ palette.yellow.bright.hex }}'
+base14 = '#{{ palette.green.bright.hex }}'
+base15 = '#{{ palette.cyan.bright.hex }}'
+base16 = '#{{ palette.blue.bright.hex }}'
+base17 = '#{{ palette.magenta.bright.hex }}'

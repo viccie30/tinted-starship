@@ -1,0 +1,98 @@
+[palettes.{{ scheme-system }}-{{ scheme-slug }}]
+# {{ scheme-name }}
+{{# scheme-description }}# Description: {{ scheme-description }}
+{{/ scheme-description }}# Author: {{ scheme-author }}
+# Variant: {{ scheme-variant }}
+# System: {{ scheme-system }}
+
+# Background and foreground
+background-most-extreme = {{# base11-hex }}'#{{ base11-hex }}'{{/ base11-hex }}{{^ base11-hex }}'#{{ base00-hex }}' # Fallback{{/ base11-hex }}
+background-extreme = {{# base10-hex }}'#{{ base10-hex }}'{{/ base10-hex }}{{^ base10-hex }}'#{{ base00-hex }}' # Fallback{{/ base10-hex }}
+background = '#{{ base00-hex }}'
+background-less-extreme = '#{{ base01-hex }}'
+background-least-extreme = '#{{ base02-hex }}'
+
+foreground-least-extreme = '#{{ base03-hex }}'
+foreground-less-extreme = '#{{ base04-hex }}'
+foreground = '#{{ base05-hex }}'
+foreground-extreme = '#{{ base06-hex }}'
+foreground-most-extreme = '#{{ base07-hex }}'
+
+# Base{{# base17-hex }}24{{/ base17-hex }}{{^ base17-hex }}16{{/ base17-hex }}
+base00 = '#{{ base00-hex }}'
+base01 = '#{{ base01-hex }}'
+base02 = '#{{ base02-hex }}'
+base03 = '#{{ base03-hex }}'
+base04 = '#{{ base04-hex }}'
+base05 = '#{{ base05-hex }}'
+base06 = '#{{ base06-hex }}'
+base07 = '#{{ base07-hex }}'
+base08 = '#{{ base08-hex }}'
+base09 = '#{{ base09-hex }}'
+base0A = '#{{ base0A-hex }}'
+base0B = '#{{ base0B-hex }}'
+base0C = '#{{ base0C-hex }}'
+base0D = '#{{ base0D-hex }}'
+base0E = '#{{ base0E-hex }}'
+base0F = '#{{ base0F-hex }}'
+{{^ base17-hex }}
+
+# Base24 compatibility
+{{/ base17-hex }}
+base10 = {{# base10-hex }}'#{{ base10-hex }}'{{/ base10-hex }}{{^ base10-hex }}'#{{ base00-hex }}' # Fallback{{/ base10-hex }}
+base11 = {{# base11-hex }}'#{{ base11-hex }}'{{/ base11-hex }}{{^ base11-hex }}'#{{ base00-hex }}' # Fallback{{/ base11-hex }}
+base12 = {{# base12-hex }}'#{{ base12-hex }}'{{/ base12-hex }}{{^ base12-hex }}'#{{ base08-hex }}' # Fallback{{/ base12-hex }}
+base13 = {{# base13-hex }}'#{{ base13-hex }}'{{/ base13-hex }}{{^ base13-hex }}'#{{ base0A-hex }}' # Fallback{{/ base13-hex }}
+base14 = {{# base14-hex }}'#{{ base14-hex }}'{{/ base14-hex }}{{^ base14-hex }}'#{{ base0B-hex }}' # Fallback{{/ base14-hex }}
+base15 = {{# base15-hex }}'#{{ base15-hex }}'{{/ base15-hex }}{{^ base15-hex }}'#{{ base0C-hex }}' # Fallback{{/ base15-hex }}
+base16 = {{# base16-hex }}'#{{ base16-hex }}'{{/ base16-hex }}{{^ base16-hex }}'#{{ base0D-hex }}' # Fallback{{/ base16-hex }}
+base17 = {{# base17-hex }}'#{{ base17-hex }}'{{/ base17-hex }}{{^ base17-hex }}'#{{ base0E-hex }}' # Fallback{{/ base17-hex }}
+
+# Tinted8 compatibility
+palette-black = '#{{^ scheme-is-light-variant }}{{ base00-hex }}{{/ scheme-is-light-variant }}{{# scheme-is-light-variant }}{{ base06-hex }}{{/ scheme-is-light-variant }}'
+palette-red = '#{{ base08-hex }}'
+palette-green = '#{{ base0B-hex }}'
+palette-yellow = '#{{ base0A-hex }}'
+palette-blue = '#{{ base0D-hex }}'
+palette-magenta = '#{{ base0E-hex }}'
+palette-cyan = '#{{ base0C-hex }}'
+palette-white = '#{{# scheme-is-light-variant }}{{ base00-hex }}{{/ scheme-is-light-variant }}{{^ scheme-is-light-variant }}{{ base06-hex }}{{/ scheme-is-light-variant }}'
+palette-gray = '#{{ base03-hex }}'
+palette-orange = '#{{ base09-hex }}'
+palette-brown = '#{{ base0F-hex }}'
+
+palette-black-bright = '#{{^ scheme-is-light-variant }}{{ base01-hex }}{{/ scheme-is-light-variant }}{{# scheme-is-light-variant }}{{ base05-hex }}{{/ scheme-is-light-variant }}'
+palette-red-bright = {{# base12-hex }}'#{{ base12-hex }}'{{/ base12-hex }}{{^ base12-hex }}'#{{ base08-hex }}' # Fallback{{/ base12-hex }}
+palette-green-bright = {{# base14-hex }}'#{{ base14-hex }}'{{/ base14-hex }}{{^ base14-hex }}'#{{ base0B-hex }}' # Fallback{{/ base14-hex }}
+palette-yellow-bright = {{# base13-hex }}'#{{ base13-hex }}'{{/ base13-hex }}{{^ base13-hex }}'#{{ base0A-hex }}' # Fallback{{/ base13-hex }}
+palette-blue-bright = {{# base16-hex }}'#{{ base16-hex }}'{{/ base16-hex }}{{^ base16-hex }}'#{{ base0D-hex }}' # Fallback{{/ base16-hex }}
+palette-magenta-bright = {{# base17-hex }}'#{{ base17-hex }}'{{/ base17-hex }}{{^ base17-hex }}'#{{ base0E-hex }}' # Fallback{{/ base17-hex }}
+palette-cyan-bright = {{# base15-hex }}'#{{ base15-hex }}'{{/ base15-hex }}{{^ base15-hex }}'#{{ base0C-hex }}' # Fallback{{/ base15-hex }}
+palette-white-bright = {{# scheme-is-light-variant }}{{# base10-hex }}'#{{ base10-hex }}'{{/ base10-hex }}{{^ base10-hex }}'#{{ base00-hex }}' # Fallback{{/ base10-hex }}{{/ scheme-is-light-variant }}{{^ scheme-is-light-variant }}'#{{ base07-hex }}'{{/ scheme-is-light-variant }}
+palette-gray-bright = '#{{# scheme-is-light-variant }}{{ base02-hex }}{{/ scheme-is-light-variant }}{{^ scheme-is-light-variant }}{{ base04-hex }}{{/ scheme-is-light-variant }}'
+palette-orange-bright = '#{{ base09-hex }}' # Fallback
+palette-brown-bright = '#{{ base0F-hex }}' # Fallback
+
+palette-black-dim = {{^ scheme-is-light-variant }}{{# base10-hex }}'#{{ base10-hex }}'{{/ base10-hex }}{{^ base10-hex }}'#{{ base00-hex }}' # Fallback{{/ base10-hex }}{{/ scheme-is-light-variant }}{{# scheme-is-light-variant }}'#{{ base07-hex }}'{{/ scheme-is-light-variant }}
+palette-red-dim = '#{{ base08-hex }}' # Fallback
+palette-green-dim = '#{{ base0B-hex }}' # Fallback
+palette-yellow-dim = '#{{ base0A-hex }}' # Fallback
+palette-blue-dim = '#{{ base0D-hex }}' # Fallback
+palette-magenta-dim = '#{{ base0E-hex }}' # Fallback
+palette-cyan-dim = '#{{ base0C-hex }}' # Fallback
+palette-white-dim = '#{{# scheme-is-light-variant }}{{ base01-hex }}{{/ scheme-is-light-variant }}{{^ scheme-is-light-variant }}{{ base05-hex }}{{/ scheme-is-light-variant }}'
+palette-gray-dim = '#{{^ scheme-is-light-variant }}{{ base02-hex }}{{/ scheme-is-light-variant }}{{# scheme-is-light-variant }}{{ base04-hex }}{{/ scheme-is-light-variant }}'
+palette-orange-dim = '#{{ base09-hex }}' # Fallback
+palette-brown-dim = '#{{ base0F-hex }}' # Fallback
+
+ui-global-dark-background =	{{# base10-hex }}'#{{ base10-hex }}'{{/ base10-hex }}{{^ base10-hex }}'#{{ base00-hex }}' # Fallback{{/ base10-hex }}
+ui-global-dark-foreground = '#{{ base05-hex }}'
+ui-global-light-background = '#{{ base01-hex }}'
+ui-global-light-foreground = '#{{ base07-hex }}'
+ui-global-normal-background = '#{{ base00-hex }}'
+ui-global-normal-foreground = '#{{ base06-hex }}'
+
+ui-status-error = '#{{ base08-hex }}'
+ui-status-info = '#{{ base09-hex }}'
+ui-status-success = '#{{ base0B-hex }}'
+ui-status-warning = '#{{ base0A-hex }}'
