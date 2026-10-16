@@ -1,0 +1,95 @@
+[palettes.base16-neovim-light]
+# Neovim Light
+# Author: https://github.com/neovim/neovim/blob/master/src/nvim/highlight_group.c
+# Variant: light
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#e0e2ea' # Fallback
+background-extreme = '#e0e2ea' # Fallback
+background = '#e0e2ea'
+background-less-extreme = '#eef1f8'
+background-least-extreme = '#9b9ea4'
+
+foreground-least-extreme = '#4f5258'
+foreground-less-extreme = '#2c2e33'
+foreground = '#14161b'
+foreground-extreme = '#07080d'
+foreground-most-extreme = '#07080d'
+
+# Base16
+base00 = '#e0e2ea'
+base01 = '#eef1f8'
+base02 = '#9b9ea4'
+base03 = '#4f5258'
+base04 = '#2c2e33'
+base05 = '#14161b'
+base06 = '#07080d'
+base07 = '#07080d'
+base08 = '#590008'
+base09 = '#8b4513'
+base0A = '#6b5300'
+base0B = '#005523'
+base0C = '#007373'
+base0D = '#004c73'
+base0E = '#470045'
+base0F = '#a52a2a'
+
+# Base24 compatibility
+base10 = '#e0e2ea' # Fallback
+base11 = '#e0e2ea' # Fallback
+base12 = '#590008' # Fallback
+base13 = '#6b5300' # Fallback
+base14 = '#005523' # Fallback
+base15 = '#007373' # Fallback
+base16 = '#004c73' # Fallback
+base17 = '#470045' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#07080d'
+palette-red = '#590008'
+palette-green = '#005523'
+palette-yellow = '#6b5300'
+palette-blue = '#004c73'
+palette-magenta = '#470045'
+palette-cyan = '#007373'
+palette-white = '#e0e2ea'
+palette-gray = '#4f5258'
+palette-orange = '#8b4513'
+palette-brown = '#a52a2a'
+
+palette-black-bright = '#14161b'
+palette-red-bright = '#590008' # Fallback
+palette-green-bright = '#005523' # Fallback
+palette-yellow-bright = '#6b5300' # Fallback
+palette-blue-bright = '#004c73' # Fallback
+palette-magenta-bright = '#470045' # Fallback
+palette-cyan-bright = '#007373' # Fallback
+palette-white-bright = '#e0e2ea' # Fallback
+palette-gray-bright = '#9b9ea4'
+palette-orange-bright = '#8b4513' # Fallback
+palette-brown-bright = '#a52a2a' # Fallback
+
+palette-black-dim = '#07080d'
+palette-red-dim = '#590008' # Fallback
+palette-green-dim = '#005523' # Fallback
+palette-yellow-dim = '#6b5300' # Fallback
+palette-blue-dim = '#004c73' # Fallback
+palette-magenta-dim = '#470045' # Fallback
+palette-cyan-dim = '#007373' # Fallback
+palette-white-dim = '#eef1f8'
+palette-gray-dim = '#2c2e33'
+palette-orange-dim = '#8b4513' # Fallback
+palette-brown-dim = '#a52a2a' # Fallback
+
+ui-global-dark-background =	'#e0e2ea' # Fallback
+ui-global-dark-foreground = '#14161b'
+ui-global-light-background = '#eef1f8'
+ui-global-light-foreground = '#07080d'
+ui-global-normal-background = '#e0e2ea'
+ui-global-normal-foreground = '#07080d'
+
+ui-status-error = '#590008'
+ui-status-info = '#8b4513'
+ui-status-success = '#005523'
+ui-status-warning = '#6b5300'

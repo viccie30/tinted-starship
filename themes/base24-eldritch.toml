@@ -1,0 +1,93 @@
+[palettes.base24-eldritch]
+# Eldritch
+# Author: https://github.com/eldritch-theme
+# Variant: dark
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#0e0f1a'
+background-extreme = '#171928'
+background = '#212337'
+background-less-extreme = '#323449'
+background-least-extreme = '#3b4261'
+
+foreground-least-extreme = '#7081d0'
+foreground-less-extreme = '#a1abe0'
+foreground = '#ebfafa'
+foreground-extreme = '#f0f2f4'
+foreground-most-extreme = '#ffffff'
+
+# Base24
+base00 = '#212337'
+base01 = '#323449'
+base02 = '#3b4261'
+base03 = '#7081d0'
+base04 = '#a1abe0'
+base05 = '#ebfafa'
+base06 = '#f0f2f4'
+base07 = '#ffffff'
+base08 = '#f16c75'
+base09 = '#f7c67f'
+base0A = '#f1fc79'
+base0B = '#37f499'
+base0C = '#04d1f9'
+base0D = '#39ddfd'
+base0E = '#a48cf2'
+base0F = '#f265b5'
+base10 = '#171928'
+base11 = '#0e0f1a'
+base12 = '#f89a9d'
+base13 = '#f9e9a1'
+base14 = '#6fffc1'
+base15 = '#6ce9ff'
+base16 = '#7ae9ff'
+base17 = '#d4b3ff'
+
+# Tinted8 compatibility
+palette-black = '#212337'
+palette-red = '#f16c75'
+palette-green = '#37f499'
+palette-yellow = '#f1fc79'
+palette-blue = '#39ddfd'
+palette-magenta = '#a48cf2'
+palette-cyan = '#04d1f9'
+palette-white = '#f0f2f4'
+palette-gray = '#7081d0'
+palette-orange = '#f7c67f'
+palette-brown = '#f265b5'
+
+palette-black-bright = '#323449'
+palette-red-bright = '#f89a9d'
+palette-green-bright = '#6fffc1'
+palette-yellow-bright = '#f9e9a1'
+palette-blue-bright = '#7ae9ff'
+palette-magenta-bright = '#d4b3ff'
+palette-cyan-bright = '#6ce9ff'
+palette-white-bright = '#ffffff'
+palette-gray-bright = '#a1abe0'
+palette-orange-bright = '#f7c67f' # Fallback
+palette-brown-bright = '#f265b5' # Fallback
+
+palette-black-dim = '#171928'
+palette-red-dim = '#f16c75' # Fallback
+palette-green-dim = '#37f499' # Fallback
+palette-yellow-dim = '#f1fc79' # Fallback
+palette-blue-dim = '#39ddfd' # Fallback
+palette-magenta-dim = '#a48cf2' # Fallback
+palette-cyan-dim = '#04d1f9' # Fallback
+palette-white-dim = '#ebfafa'
+palette-gray-dim = '#3b4261'
+palette-orange-dim = '#f7c67f' # Fallback
+palette-brown-dim = '#f265b5' # Fallback
+
+ui-global-dark-background =	'#171928'
+ui-global-dark-foreground = '#ebfafa'
+ui-global-light-background = '#323449'
+ui-global-light-foreground = '#ffffff'
+ui-global-normal-background = '#212337'
+ui-global-normal-foreground = '#f0f2f4'
+
+ui-status-error = '#f16c75'
+ui-status-info = '#f7c67f'
+ui-status-success = '#37f499'
+ui-status-warning = '#f1fc79'

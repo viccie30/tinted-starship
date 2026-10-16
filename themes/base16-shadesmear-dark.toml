@@ -1,0 +1,95 @@
+[palettes.base16-shadesmear-dark]
+# ShadeSmear Dark
+# Author: Kyle Giammarco (http://kyle.giammar.co)
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#232323' # Fallback
+background-extreme = '#232323' # Fallback
+background = '#232323'
+background-less-extreme = '#1c1c1c'
+background-least-extreme = '#4e4e4e'
+
+foreground-least-extreme = '#c0c0c0'
+foreground-less-extreme = '#e4e4e4'
+foreground = '#dbdbdb'
+foreground-extreme = '#e4e4e4'
+foreground-most-extreme = '#1c1c1c'
+
+# Base16
+base00 = '#232323'
+base01 = '#1c1c1c'
+base02 = '#4e4e4e'
+base03 = '#c0c0c0'
+base04 = '#e4e4e4'
+base05 = '#dbdbdb'
+base06 = '#e4e4e4'
+base07 = '#1c1c1c'
+base08 = '#cc5450'
+base09 = '#a64270'
+base0A = '#307878'
+base0B = '#71983b'
+base0C = '#c57d42'
+base0D = '#376388'
+base0E = '#d7ab54'
+base0F = '#6d6d6d'
+
+# Base24 compatibility
+base10 = '#232323' # Fallback
+base11 = '#232323' # Fallback
+base12 = '#cc5450' # Fallback
+base13 = '#307878' # Fallback
+base14 = '#71983b' # Fallback
+base15 = '#c57d42' # Fallback
+base16 = '#376388' # Fallback
+base17 = '#d7ab54' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#232323'
+palette-red = '#cc5450'
+palette-green = '#71983b'
+palette-yellow = '#307878'
+palette-blue = '#376388'
+palette-magenta = '#d7ab54'
+palette-cyan = '#c57d42'
+palette-white = '#e4e4e4'
+palette-gray = '#c0c0c0'
+palette-orange = '#a64270'
+palette-brown = '#6d6d6d'
+
+palette-black-bright = '#1c1c1c'
+palette-red-bright = '#cc5450' # Fallback
+palette-green-bright = '#71983b' # Fallback
+palette-yellow-bright = '#307878' # Fallback
+palette-blue-bright = '#376388' # Fallback
+palette-magenta-bright = '#d7ab54' # Fallback
+palette-cyan-bright = '#c57d42' # Fallback
+palette-white-bright = '#1c1c1c'
+palette-gray-bright = '#e4e4e4'
+palette-orange-bright = '#a64270' # Fallback
+palette-brown-bright = '#6d6d6d' # Fallback
+
+palette-black-dim = '#232323' # Fallback
+palette-red-dim = '#cc5450' # Fallback
+palette-green-dim = '#71983b' # Fallback
+palette-yellow-dim = '#307878' # Fallback
+palette-blue-dim = '#376388' # Fallback
+palette-magenta-dim = '#d7ab54' # Fallback
+palette-cyan-dim = '#c57d42' # Fallback
+palette-white-dim = '#dbdbdb'
+palette-gray-dim = '#4e4e4e'
+palette-orange-dim = '#a64270' # Fallback
+palette-brown-dim = '#6d6d6d' # Fallback
+
+ui-global-dark-background =	'#232323' # Fallback
+ui-global-dark-foreground = '#dbdbdb'
+ui-global-light-background = '#1c1c1c'
+ui-global-light-foreground = '#1c1c1c'
+ui-global-normal-background = '#232323'
+ui-global-normal-foreground = '#e4e4e4'
+
+ui-status-error = '#cc5450'
+ui-status-info = '#a64270'
+ui-status-success = '#71983b'
+ui-status-warning = '#307878'

@@ -1,0 +1,96 @@
+[palettes.base16-digital-rain]
+# Digital Rain
+# Description: A base16 theme inspired by The Matrix, 90s aesthetics and retro terminals.
+# Author: Nathan Byrd (https://github.com/cognitivegears)
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#000000' # Fallback
+background-extreme = '#000000' # Fallback
+background = '#000000'
+background-less-extreme = '#4a806c'
+background-least-extreme = '#4a8d7e'
+
+foreground-least-extreme = '#7c8d7c'
+foreground-less-extreme = '#919893'
+foreground = '#00ff00'
+foreground-extreme = '#c4cec4'
+foreground-most-extreme = '#d8e2dc'
+
+# Base16
+base00 = '#000000'
+base01 = '#4a806c'
+base02 = '#4a8d7e'
+base03 = '#7c8d7c'
+base04 = '#919893'
+base05 = '#00ff00'
+base06 = '#c4cec4'
+base07 = '#d8e2dc'
+base08 = '#c85a46'
+base09 = '#c86428'
+base0A = '#a67a50'
+base0B = '#64c83c'
+base0C = '#468c78'
+base0D = '#5482af'
+base0E = '#9472b4'
+base0F = '#b37c5e'
+
+# Base24 compatibility
+base10 = '#000000' # Fallback
+base11 = '#000000' # Fallback
+base12 = '#c85a46' # Fallback
+base13 = '#a67a50' # Fallback
+base14 = '#64c83c' # Fallback
+base15 = '#468c78' # Fallback
+base16 = '#5482af' # Fallback
+base17 = '#9472b4' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#000000'
+palette-red = '#c85a46'
+palette-green = '#64c83c'
+palette-yellow = '#a67a50'
+palette-blue = '#5482af'
+palette-magenta = '#9472b4'
+palette-cyan = '#468c78'
+palette-white = '#c4cec4'
+palette-gray = '#7c8d7c'
+palette-orange = '#c86428'
+palette-brown = '#b37c5e'
+
+palette-black-bright = '#4a806c'
+palette-red-bright = '#c85a46' # Fallback
+palette-green-bright = '#64c83c' # Fallback
+palette-yellow-bright = '#a67a50' # Fallback
+palette-blue-bright = '#5482af' # Fallback
+palette-magenta-bright = '#9472b4' # Fallback
+palette-cyan-bright = '#468c78' # Fallback
+palette-white-bright = '#d8e2dc'
+palette-gray-bright = '#919893'
+palette-orange-bright = '#c86428' # Fallback
+palette-brown-bright = '#b37c5e' # Fallback
+
+palette-black-dim = '#000000' # Fallback
+palette-red-dim = '#c85a46' # Fallback
+palette-green-dim = '#64c83c' # Fallback
+palette-yellow-dim = '#a67a50' # Fallback
+palette-blue-dim = '#5482af' # Fallback
+palette-magenta-dim = '#9472b4' # Fallback
+palette-cyan-dim = '#468c78' # Fallback
+palette-white-dim = '#00ff00'
+palette-gray-dim = '#4a8d7e'
+palette-orange-dim = '#c86428' # Fallback
+palette-brown-dim = '#b37c5e' # Fallback
+
+ui-global-dark-background =	'#000000' # Fallback
+ui-global-dark-foreground = '#00ff00'
+ui-global-light-background = '#4a806c'
+ui-global-light-foreground = '#d8e2dc'
+ui-global-normal-background = '#000000'
+ui-global-normal-foreground = '#c4cec4'
+
+ui-status-error = '#c85a46'
+ui-status-info = '#c86428'
+ui-status-success = '#64c83c'
+ui-status-warning = '#a67a50'

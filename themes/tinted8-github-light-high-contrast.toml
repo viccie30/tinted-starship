@@ -1,0 +1,93 @@
+[palettes.tinted8-github-light-high-contrast]
+# Github Light High Contrast
+# Author: Tinted Theming (https://github.com/tinted-theming)
+# Variant: light
+# System: tinted8
+
+# Background and foreground
+background-most-extreme = '#818b98' # Fallback
+background-extreme = '#818b98'
+background = '#59636e'
+background-less-extreme = '#3d454c'
+background-least-extreme = '#748190'
+
+foreground-least-extreme = '#3d454c'
+foreground-less-extreme = '#393f46'
+foreground = '#010409'
+foreground-extreme = '#000000'
+foreground-most-extreme = '#000000' # Fallback
+
+# Tinted8
+palette-black = '#010409'
+palette-red = '#a0111f'
+palette-green = '#024c1a'
+palette-yellow = '#3f2200'
+palette-blue = '#0349b4'
+palette-magenta = '#622cbc'
+palette-cyan = '#1b7c83'
+palette-white = '#59636e'
+palette-gray = '#59636e'
+palette-orange = '#702c00'
+palette-brown = '#000000'
+
+palette-black-bright = '#393f46'
+palette-red-bright = '#86061d'
+palette-green-bright = '#055d20'
+palette-yellow-bright = '#4e2c00'
+palette-blue-bright = '#1168e3'
+palette-magenta-bright = '#844ae7'
+palette-cyan-bright = '#3192aa'
+palette-white-bright = '#818b98'
+palette-gray-bright = '#748190'
+palette-orange-bright = '#ad4400'
+palette-brown-bright = '#1f1f1f'
+
+palette-black-dim = '#000000'
+palette-red-dim = '#6b0913'
+palette-green-dim = '#001105'
+palette-yellow-dim = '#020100'
+palette-blue-dim = '#00307a'
+palette-magenta-dim = '#471d8e'
+palette-cyan-dim = '#0f4d52'
+palette-white-dim = '#3d454c'
+palette-gray-dim = '#3d454c'
+palette-orange-dim = '#ad4400'
+palette-brown-dim = '#000000'
+
+ui-global-dark-background = '#'
+ui-global-dark-foreground = '#'
+ui-global-light-background = '#'
+ui-global-light-foreground = '#'
+ui-global-normal-background = '#'
+ui-global-normal-foreground = '#'
+
+ui-status-error = '#'
+ui-status-info = '#'
+ui-status-success = '#'
+ui-status-warning = '#'
+
+# Base24 compatibility
+base00 = '#59636e'
+base01 = '#3d454c'
+base02 = '#748190'
+base03 = '#59636e'
+base04 = '#3d454c'
+base05 = '#393f46'
+base06 = '#010409'
+base07 = '#000000'
+base08 = '#a0111f'
+base09 = '#702c00'
+base0A = '#3f2200'
+base0B = '#024c1a'
+base0C = '#1b7c83'
+base0D = '#0349b4'
+base0E = '#622cbc'
+base0F = '#000000'
+base10 = '#818b98'
+base11 = '#818b98' # Fallback
+base12 = '#86061d'
+base13 = '#4e2c00'
+base14 = '#055d20'
+base15 = '#3192aa'
+base16 = '#1168e3'
+base17 = '#844ae7'

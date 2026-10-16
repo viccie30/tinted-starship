@@ -1,0 +1,96 @@
+[palettes.base16-serendipity-sunset]
+# Serendipity Sunset
+# Description: Serendipity Serendipity Sunset from the Serendipity theme family
+# Author: Micheal Andreuzza (https://michaelandreuzza.com/)
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#202231' # Fallback
+background-extreme = '#202231' # Fallback
+background = '#202231'
+background-less-extreme = '#272938'
+background-least-extreme = '#272938'
+
+foreground-least-extreme = '#8d8f9e'
+foreground-less-extreme = '#6b6d7c'
+foreground = '#dee0ef'
+foreground-extreme = '#dee0ef'
+foreground-most-extreme = '#202231'
+
+# Base16
+base00 = '#202231'
+base01 = '#272938'
+base02 = '#272938'
+base03 = '#8d8f9e'
+base04 = '#6b6d7c'
+base05 = '#dee0ef'
+base06 = '#dee0ef'
+base07 = '#202231'
+base08 = '#d1918f'
+base09 = '#d1918f'
+base0A = '#a392dc'
+base0B = '#709bbd'
+base0C = '#d6b4b4'
+base0D = '#a0b6e8'
+base0E = '#a392dc'
+base0F = '#709bbd'
+
+# Base24 compatibility
+base10 = '#202231' # Fallback
+base11 = '#202231' # Fallback
+base12 = '#d1918f' # Fallback
+base13 = '#a392dc' # Fallback
+base14 = '#709bbd' # Fallback
+base15 = '#d6b4b4' # Fallback
+base16 = '#a0b6e8' # Fallback
+base17 = '#a392dc' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#202231'
+palette-red = '#d1918f'
+palette-green = '#709bbd'
+palette-yellow = '#a392dc'
+palette-blue = '#a0b6e8'
+palette-magenta = '#a392dc'
+palette-cyan = '#d6b4b4'
+palette-white = '#dee0ef'
+palette-gray = '#8d8f9e'
+palette-orange = '#d1918f'
+palette-brown = '#709bbd'
+
+palette-black-bright = '#272938'
+palette-red-bright = '#d1918f' # Fallback
+palette-green-bright = '#709bbd' # Fallback
+palette-yellow-bright = '#a392dc' # Fallback
+palette-blue-bright = '#a0b6e8' # Fallback
+palette-magenta-bright = '#a392dc' # Fallback
+palette-cyan-bright = '#d6b4b4' # Fallback
+palette-white-bright = '#202231'
+palette-gray-bright = '#6b6d7c'
+palette-orange-bright = '#d1918f' # Fallback
+palette-brown-bright = '#709bbd' # Fallback
+
+palette-black-dim = '#202231' # Fallback
+palette-red-dim = '#d1918f' # Fallback
+palette-green-dim = '#709bbd' # Fallback
+palette-yellow-dim = '#a392dc' # Fallback
+palette-blue-dim = '#a0b6e8' # Fallback
+palette-magenta-dim = '#a392dc' # Fallback
+palette-cyan-dim = '#d6b4b4' # Fallback
+palette-white-dim = '#dee0ef'
+palette-gray-dim = '#272938'
+palette-orange-dim = '#d1918f' # Fallback
+palette-brown-dim = '#709bbd' # Fallback
+
+ui-global-dark-background =	'#202231' # Fallback
+ui-global-dark-foreground = '#dee0ef'
+ui-global-light-background = '#272938'
+ui-global-light-foreground = '#202231'
+ui-global-normal-background = '#202231'
+ui-global-normal-foreground = '#dee0ef'
+
+ui-status-error = '#d1918f'
+ui-status-info = '#d1918f'
+ui-status-success = '#709bbd'
+ui-status-warning = '#a392dc'

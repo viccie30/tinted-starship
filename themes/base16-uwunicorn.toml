@@ -1,0 +1,95 @@
+[palettes.base16-uwunicorn]
+# UwUnicorn
+# Author: Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#241b26' # Fallback
+background-extreme = '#241b26' # Fallback
+background = '#241b26'
+background-less-extreme = '#2f2a3f'
+background-least-extreme = '#46354a'
+
+foreground-least-extreme = '#6c3cb2'
+foreground-less-extreme = '#7e5f83'
+foreground = '#eed5d9'
+foreground-extreme = '#d9c2c6'
+foreground-most-extreme = '#e4ccd0'
+
+# Base16
+base00 = '#241b26'
+base01 = '#2f2a3f'
+base02 = '#46354a'
+base03 = '#6c3cb2'
+base04 = '#7e5f83'
+base05 = '#eed5d9'
+base06 = '#d9c2c6'
+base07 = '#e4ccd0'
+base08 = '#877bb6'
+base09 = '#de5b44'
+base0A = '#a84a73'
+base0B = '#c965bf'
+base0C = '#9c5fce'
+base0D = '#6a9eb5'
+base0E = '#78a38f'
+base0F = '#a3a079'
+
+# Base24 compatibility
+base10 = '#241b26' # Fallback
+base11 = '#241b26' # Fallback
+base12 = '#877bb6' # Fallback
+base13 = '#a84a73' # Fallback
+base14 = '#c965bf' # Fallback
+base15 = '#9c5fce' # Fallback
+base16 = '#6a9eb5' # Fallback
+base17 = '#78a38f' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#241b26'
+palette-red = '#877bb6'
+palette-green = '#c965bf'
+palette-yellow = '#a84a73'
+palette-blue = '#6a9eb5'
+palette-magenta = '#78a38f'
+palette-cyan = '#9c5fce'
+palette-white = '#d9c2c6'
+palette-gray = '#6c3cb2'
+palette-orange = '#de5b44'
+palette-brown = '#a3a079'
+
+palette-black-bright = '#2f2a3f'
+palette-red-bright = '#877bb6' # Fallback
+palette-green-bright = '#c965bf' # Fallback
+palette-yellow-bright = '#a84a73' # Fallback
+palette-blue-bright = '#6a9eb5' # Fallback
+palette-magenta-bright = '#78a38f' # Fallback
+palette-cyan-bright = '#9c5fce' # Fallback
+palette-white-bright = '#e4ccd0'
+palette-gray-bright = '#7e5f83'
+palette-orange-bright = '#de5b44' # Fallback
+palette-brown-bright = '#a3a079' # Fallback
+
+palette-black-dim = '#241b26' # Fallback
+palette-red-dim = '#877bb6' # Fallback
+palette-green-dim = '#c965bf' # Fallback
+palette-yellow-dim = '#a84a73' # Fallback
+palette-blue-dim = '#6a9eb5' # Fallback
+palette-magenta-dim = '#78a38f' # Fallback
+palette-cyan-dim = '#9c5fce' # Fallback
+palette-white-dim = '#eed5d9'
+palette-gray-dim = '#46354a'
+palette-orange-dim = '#de5b44' # Fallback
+palette-brown-dim = '#a3a079' # Fallback
+
+ui-global-dark-background =	'#241b26' # Fallback
+ui-global-dark-foreground = '#eed5d9'
+ui-global-light-background = '#2f2a3f'
+ui-global-light-foreground = '#e4ccd0'
+ui-global-normal-background = '#241b26'
+ui-global-normal-foreground = '#d9c2c6'
+
+ui-status-error = '#877bb6'
+ui-status-info = '#de5b44'
+ui-status-success = '#c965bf'
+ui-status-warning = '#a84a73'

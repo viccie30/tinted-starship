@@ -1,0 +1,96 @@
+[palettes.base16-chinoiserie-night]
+# Chinoiserie Night
+# Description: A variant of Tomorrow scheme from https://github.com/stonebuddha/base16-chinoiserie-scheme
+# Author: Di Wang (https://cs.cmu.edu/~diw3)
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#1d1d1d' # Fallback
+background-extreme = '#1d1d1d' # Fallback
+background = '#1d1d1d'
+background-less-extreme = '#282828'
+background-least-extreme = '#373737'
+
+foreground-least-extreme = '#918072'
+foreground-less-extreme = '#bdaead'
+foreground = '#c4cbcf'
+foreground-extreme = '#eee7f2'
+foreground-most-extreme = '#fffef9'
+
+# Base16
+base00 = '#1d1d1d'
+base01 = '#282828'
+base02 = '#373737'
+base03 = '#918072'
+base04 = '#bdaead'
+base05 = '#c4cbcf'
+base06 = '#eee7f2'
+base07 = '#fffef9'
+base08 = '#f07c82'
+base09 = '#f4a83a'
+base0A = '#f4ce69'
+base0B = '#b2cf87'
+base0C = '#b0d5df'
+base0D = '#8fb2c9'
+base0E = '#be9db9'
+base0F = '#b89485'
+
+# Base24 compatibility
+base10 = '#1d1d1d' # Fallback
+base11 = '#1d1d1d' # Fallback
+base12 = '#f07c82' # Fallback
+base13 = '#f4ce69' # Fallback
+base14 = '#b2cf87' # Fallback
+base15 = '#b0d5df' # Fallback
+base16 = '#8fb2c9' # Fallback
+base17 = '#be9db9' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#1d1d1d'
+palette-red = '#f07c82'
+palette-green = '#b2cf87'
+palette-yellow = '#f4ce69'
+palette-blue = '#8fb2c9'
+palette-magenta = '#be9db9'
+palette-cyan = '#b0d5df'
+palette-white = '#eee7f2'
+palette-gray = '#918072'
+palette-orange = '#f4a83a'
+palette-brown = '#b89485'
+
+palette-black-bright = '#282828'
+palette-red-bright = '#f07c82' # Fallback
+palette-green-bright = '#b2cf87' # Fallback
+palette-yellow-bright = '#f4ce69' # Fallback
+palette-blue-bright = '#8fb2c9' # Fallback
+palette-magenta-bright = '#be9db9' # Fallback
+palette-cyan-bright = '#b0d5df' # Fallback
+palette-white-bright = '#fffef9'
+palette-gray-bright = '#bdaead'
+palette-orange-bright = '#f4a83a' # Fallback
+palette-brown-bright = '#b89485' # Fallback
+
+palette-black-dim = '#1d1d1d' # Fallback
+palette-red-dim = '#f07c82' # Fallback
+palette-green-dim = '#b2cf87' # Fallback
+palette-yellow-dim = '#f4ce69' # Fallback
+palette-blue-dim = '#8fb2c9' # Fallback
+palette-magenta-dim = '#be9db9' # Fallback
+palette-cyan-dim = '#b0d5df' # Fallback
+palette-white-dim = '#c4cbcf'
+palette-gray-dim = '#373737'
+palette-orange-dim = '#f4a83a' # Fallback
+palette-brown-dim = '#b89485' # Fallback
+
+ui-global-dark-background =	'#1d1d1d' # Fallback
+ui-global-dark-foreground = '#c4cbcf'
+ui-global-light-background = '#282828'
+ui-global-light-foreground = '#fffef9'
+ui-global-normal-background = '#1d1d1d'
+ui-global-normal-foreground = '#eee7f2'
+
+ui-status-error = '#f07c82'
+ui-status-info = '#f4a83a'
+ui-status-success = '#b2cf87'
+ui-status-warning = '#f4ce69'

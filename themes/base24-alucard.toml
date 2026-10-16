@@ -1,0 +1,94 @@
+[palettes.base24-alucard]
+# Alucard
+# Description: Alucard Classic - Dracula light, based on https://github.com/dracula/draculatheme.com/blob/main/content/spec.mdx
+# Author: clach04 (https://github.com/clach04)
+# Variant: light
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#f5f0da'
+background-extreme = '#fdf8e2'
+background = '#fffbeb'
+background-less-extreme = '#ceccc0'
+background-least-extreme = '#cfcfde'
+
+foreground-least-extreme = '#6c664b'
+foreground-less-extreme = '#4c4a3d'
+foreground = '#1f1f1f'
+foreground-extreme = '#1f1f1f'
+foreground-most-extreme = '#2c2b31'
+
+# Base24
+base00 = '#fffbeb'
+base01 = '#ceccc0'
+base02 = '#cfcfde'
+base03 = '#6c664b'
+base04 = '#4c4a3d'
+base05 = '#1f1f1f'
+base06 = '#1f1f1f'
+base07 = '#2c2b31'
+base08 = '#cb3a2a'
+base09 = '#a34d14'
+base0A = '#846e15'
+base0B = '#14710a'
+base0C = '#036a96'
+base0D = '#644ac9'
+base0E = '#a3144d'
+base0F = '#792219'
+base10 = '#fdf8e2'
+base11 = '#f5f0da'
+base12 = '#d74c3d'
+base13 = '#9e841a'
+base14 = '#198d0c'
+base15 = '#047fb4'
+base16 = '#7862d0'
+base17 = '#bf185a'
+
+# Tinted8 compatibility
+palette-black = '#1f1f1f'
+palette-red = '#cb3a2a'
+palette-green = '#14710a'
+palette-yellow = '#846e15'
+palette-blue = '#644ac9'
+palette-magenta = '#a3144d'
+palette-cyan = '#036a96'
+palette-white = '#fffbeb'
+palette-gray = '#6c664b'
+palette-orange = '#a34d14'
+palette-brown = '#792219'
+
+palette-black-bright = '#1f1f1f'
+palette-red-bright = '#d74c3d'
+palette-green-bright = '#198d0c'
+palette-yellow-bright = '#9e841a'
+palette-blue-bright = '#7862d0'
+palette-magenta-bright = '#bf185a'
+palette-cyan-bright = '#047fb4'
+palette-white-bright = '#fdf8e2'
+palette-gray-bright = '#cfcfde'
+palette-orange-bright = '#a34d14' # Fallback
+palette-brown-bright = '#792219' # Fallback
+
+palette-black-dim = '#2c2b31'
+palette-red-dim = '#cb3a2a' # Fallback
+palette-green-dim = '#14710a' # Fallback
+palette-yellow-dim = '#846e15' # Fallback
+palette-blue-dim = '#644ac9' # Fallback
+palette-magenta-dim = '#a3144d' # Fallback
+palette-cyan-dim = '#036a96' # Fallback
+palette-white-dim = '#ceccc0'
+palette-gray-dim = '#4c4a3d'
+palette-orange-dim = '#a34d14' # Fallback
+palette-brown-dim = '#792219' # Fallback
+
+ui-global-dark-background =	'#fdf8e2'
+ui-global-dark-foreground = '#1f1f1f'
+ui-global-light-background = '#ceccc0'
+ui-global-light-foreground = '#2c2b31'
+ui-global-normal-background = '#fffbeb'
+ui-global-normal-foreground = '#1f1f1f'
+
+ui-status-error = '#cb3a2a'
+ui-status-info = '#a34d14'
+ui-status-success = '#14710a'
+ui-status-warning = '#846e15'

@@ -1,0 +1,95 @@
+[palettes.base16-gruvbox-material-dark-hard]
+# Gruvbox Material Dark, Hard
+# Author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#202020' # Fallback
+background-extreme = '#202020' # Fallback
+background = '#202020'
+background-less-extreme = '#2a2827'
+background-least-extreme = '#504945'
+
+foreground-least-extreme = '#5a524c'
+foreground-less-extreme = '#bdae93'
+foreground = '#ddc7a1'
+foreground-extreme = '#ebdbb2'
+foreground-most-extreme = '#fbf1c7'
+
+# Base16
+base00 = '#202020'
+base01 = '#2a2827'
+base02 = '#504945'
+base03 = '#5a524c'
+base04 = '#bdae93'
+base05 = '#ddc7a1'
+base06 = '#ebdbb2'
+base07 = '#fbf1c7'
+base08 = '#ea6962'
+base09 = '#e78a4e'
+base0A = '#d8a657'
+base0B = '#a9b665'
+base0C = '#89b482'
+base0D = '#7daea3'
+base0E = '#d3869b'
+base0F = '#bd6f3e'
+
+# Base24 compatibility
+base10 = '#202020' # Fallback
+base11 = '#202020' # Fallback
+base12 = '#ea6962' # Fallback
+base13 = '#d8a657' # Fallback
+base14 = '#a9b665' # Fallback
+base15 = '#89b482' # Fallback
+base16 = '#7daea3' # Fallback
+base17 = '#d3869b' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#202020'
+palette-red = '#ea6962'
+palette-green = '#a9b665'
+palette-yellow = '#d8a657'
+palette-blue = '#7daea3'
+palette-magenta = '#d3869b'
+palette-cyan = '#89b482'
+palette-white = '#ebdbb2'
+palette-gray = '#5a524c'
+palette-orange = '#e78a4e'
+palette-brown = '#bd6f3e'
+
+palette-black-bright = '#2a2827'
+palette-red-bright = '#ea6962' # Fallback
+palette-green-bright = '#a9b665' # Fallback
+palette-yellow-bright = '#d8a657' # Fallback
+palette-blue-bright = '#7daea3' # Fallback
+palette-magenta-bright = '#d3869b' # Fallback
+palette-cyan-bright = '#89b482' # Fallback
+palette-white-bright = '#fbf1c7'
+palette-gray-bright = '#bdae93'
+palette-orange-bright = '#e78a4e' # Fallback
+palette-brown-bright = '#bd6f3e' # Fallback
+
+palette-black-dim = '#202020' # Fallback
+palette-red-dim = '#ea6962' # Fallback
+palette-green-dim = '#a9b665' # Fallback
+palette-yellow-dim = '#d8a657' # Fallback
+palette-blue-dim = '#7daea3' # Fallback
+palette-magenta-dim = '#d3869b' # Fallback
+palette-cyan-dim = '#89b482' # Fallback
+palette-white-dim = '#ddc7a1'
+palette-gray-dim = '#504945'
+palette-orange-dim = '#e78a4e' # Fallback
+palette-brown-dim = '#bd6f3e' # Fallback
+
+ui-global-dark-background =	'#202020' # Fallback
+ui-global-dark-foreground = '#ddc7a1'
+ui-global-light-background = '#2a2827'
+ui-global-light-foreground = '#fbf1c7'
+ui-global-normal-background = '#202020'
+ui-global-normal-foreground = '#ebdbb2'
+
+ui-status-error = '#ea6962'
+ui-status-info = '#e78a4e'
+ui-status-success = '#a9b665'
+ui-status-warning = '#d8a657'

@@ -1,0 +1,96 @@
+[palettes.base16-penumbra-light-contrast-plus]
+# Penumbra Light Contrast Plus
+# Description: A mathematically balanced colour scheme constructed in a perceptually uniform colour space, by Neal McKee. https://github.com/nealmckee/penumbra
+# Author: Zachary Weiss (https://github.com/zacharyweiss)
+# Variant: light
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#fffdfb' # Fallback
+background-extreme = '#fffdfb' # Fallback
+background = '#fffdfb'
+background-less-extreme = '#fff7ed'
+background-least-extreme = '#f2e6d4'
+
+foreground-least-extreme = '#cecece'
+foreground-less-extreme = '#9e9e9e'
+foreground = '#636363'
+foreground-extreme = '#24272b'
+foreground-most-extreme = '#181b1f'
+
+# Base16
+base00 = '#fffdfb'
+base01 = '#fff7ed'
+base02 = '#f2e6d4'
+base03 = '#cecece'
+base04 = '#9e9e9e'
+base05 = '#636363'
+base06 = '#24272b'
+base07 = '#181b1f'
+base08 = '#df7f78'
+base09 = '#ce9042'
+base0A = '#9ca748'
+base0B = '#50b584'
+base0C = '#00b3c2'
+base0D = '#61a3e6'
+base0E = '#a48fe1'
+base0F = '#d080b6'
+
+# Base24 compatibility
+base10 = '#fffdfb' # Fallback
+base11 = '#fffdfb' # Fallback
+base12 = '#df7f78' # Fallback
+base13 = '#9ca748' # Fallback
+base14 = '#50b584' # Fallback
+base15 = '#00b3c2' # Fallback
+base16 = '#61a3e6' # Fallback
+base17 = '#a48fe1' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#24272b'
+palette-red = '#df7f78'
+palette-green = '#50b584'
+palette-yellow = '#9ca748'
+palette-blue = '#61a3e6'
+palette-magenta = '#a48fe1'
+palette-cyan = '#00b3c2'
+palette-white = '#fffdfb'
+palette-gray = '#cecece'
+palette-orange = '#ce9042'
+palette-brown = '#d080b6'
+
+palette-black-bright = '#636363'
+palette-red-bright = '#df7f78' # Fallback
+palette-green-bright = '#50b584' # Fallback
+palette-yellow-bright = '#9ca748' # Fallback
+palette-blue-bright = '#61a3e6' # Fallback
+palette-magenta-bright = '#a48fe1' # Fallback
+palette-cyan-bright = '#00b3c2' # Fallback
+palette-white-bright = '#fffdfb' # Fallback
+palette-gray-bright = '#f2e6d4'
+palette-orange-bright = '#ce9042' # Fallback
+palette-brown-bright = '#d080b6' # Fallback
+
+palette-black-dim = '#181b1f'
+palette-red-dim = '#df7f78' # Fallback
+palette-green-dim = '#50b584' # Fallback
+palette-yellow-dim = '#9ca748' # Fallback
+palette-blue-dim = '#61a3e6' # Fallback
+palette-magenta-dim = '#a48fe1' # Fallback
+palette-cyan-dim = '#00b3c2' # Fallback
+palette-white-dim = '#fff7ed'
+palette-gray-dim = '#9e9e9e'
+palette-orange-dim = '#ce9042' # Fallback
+palette-brown-dim = '#d080b6' # Fallback
+
+ui-global-dark-background =	'#fffdfb' # Fallback
+ui-global-dark-foreground = '#636363'
+ui-global-light-background = '#fff7ed'
+ui-global-light-foreground = '#181b1f'
+ui-global-normal-background = '#fffdfb'
+ui-global-normal-foreground = '#24272b'
+
+ui-status-error = '#df7f78'
+ui-status-info = '#ce9042'
+ui-status-success = '#50b584'
+ui-status-warning = '#9ca748'

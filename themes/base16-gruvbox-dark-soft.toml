@@ -1,0 +1,95 @@
+[palettes.base16-gruvbox-dark-soft]
+# Gruvbox dark, soft
+# Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#32302f' # Fallback
+background-extreme = '#32302f' # Fallback
+background = '#32302f'
+background-less-extreme = '#3c3836'
+background-least-extreme = '#504945'
+
+foreground-least-extreme = '#665c54'
+foreground-less-extreme = '#bdae93'
+foreground = '#d5c4a1'
+foreground-extreme = '#ebdbb2'
+foreground-most-extreme = '#fbf1c7'
+
+# Base16
+base00 = '#32302f'
+base01 = '#3c3836'
+base02 = '#504945'
+base03 = '#665c54'
+base04 = '#bdae93'
+base05 = '#d5c4a1'
+base06 = '#ebdbb2'
+base07 = '#fbf1c7'
+base08 = '#fb4934'
+base09 = '#fe8019'
+base0A = '#fabd2f'
+base0B = '#b8bb26'
+base0C = '#8ec07c'
+base0D = '#83a598'
+base0E = '#d3869b'
+base0F = '#d65d0e'
+
+# Base24 compatibility
+base10 = '#32302f' # Fallback
+base11 = '#32302f' # Fallback
+base12 = '#fb4934' # Fallback
+base13 = '#fabd2f' # Fallback
+base14 = '#b8bb26' # Fallback
+base15 = '#8ec07c' # Fallback
+base16 = '#83a598' # Fallback
+base17 = '#d3869b' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#32302f'
+palette-red = '#fb4934'
+palette-green = '#b8bb26'
+palette-yellow = '#fabd2f'
+palette-blue = '#83a598'
+palette-magenta = '#d3869b'
+palette-cyan = '#8ec07c'
+palette-white = '#ebdbb2'
+palette-gray = '#665c54'
+palette-orange = '#fe8019'
+palette-brown = '#d65d0e'
+
+palette-black-bright = '#3c3836'
+palette-red-bright = '#fb4934' # Fallback
+palette-green-bright = '#b8bb26' # Fallback
+palette-yellow-bright = '#fabd2f' # Fallback
+palette-blue-bright = '#83a598' # Fallback
+palette-magenta-bright = '#d3869b' # Fallback
+palette-cyan-bright = '#8ec07c' # Fallback
+palette-white-bright = '#fbf1c7'
+palette-gray-bright = '#bdae93'
+palette-orange-bright = '#fe8019' # Fallback
+palette-brown-bright = '#d65d0e' # Fallback
+
+palette-black-dim = '#32302f' # Fallback
+palette-red-dim = '#fb4934' # Fallback
+palette-green-dim = '#b8bb26' # Fallback
+palette-yellow-dim = '#fabd2f' # Fallback
+palette-blue-dim = '#83a598' # Fallback
+palette-magenta-dim = '#d3869b' # Fallback
+palette-cyan-dim = '#8ec07c' # Fallback
+palette-white-dim = '#d5c4a1'
+palette-gray-dim = '#504945'
+palette-orange-dim = '#fe8019' # Fallback
+palette-brown-dim = '#d65d0e' # Fallback
+
+ui-global-dark-background =	'#32302f' # Fallback
+ui-global-dark-foreground = '#d5c4a1'
+ui-global-light-background = '#3c3836'
+ui-global-light-foreground = '#fbf1c7'
+ui-global-normal-background = '#32302f'
+ui-global-normal-foreground = '#ebdbb2'
+
+ui-status-error = '#fb4934'
+ui-status-info = '#fe8019'
+ui-status-success = '#b8bb26'
+ui-status-warning = '#fabd2f'

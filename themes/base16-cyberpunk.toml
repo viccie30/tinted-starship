@@ -1,0 +1,96 @@
+[palettes.base16-cyberpunk]
+# Cyberpunk
+# Description: Adapted from Nicholas M. Van Horn&#39;s Cyberpunk color scheme
+# Author: benjujo
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#000000' # Fallback
+background-extreme = '#000000' # Fallback
+background = '#000000'
+background-less-extreme = '#2b2b2b'
+background-least-extreme = '#383838'
+
+foreground-least-extreme = '#4f4f4f'
+foreground-less-extreme = '#8b8989'
+foreground = '#dcdccc'
+foreground-extreme = '#f8f8f8'
+foreground-most-extreme = '#ffffff'
+
+# Base16
+base00 = '#000000'
+base01 = '#2b2b2b'
+base02 = '#383838'
+base03 = '#4f4f4f'
+base04 = '#8b8989'
+base05 = '#dcdccc'
+base06 = '#f8f8f8'
+base07 = '#ffffff'
+base08 = '#ff0000'
+base09 = '#ffa500'
+base0A = '#ffff00'
+base0B = '#61ce3c'
+base0C = '#93e0e3'
+base0D = '#4c83ff'
+base0E = '#ff1493'
+base0F = '#ff8c00'
+
+# Base24 compatibility
+base10 = '#000000' # Fallback
+base11 = '#000000' # Fallback
+base12 = '#ff0000' # Fallback
+base13 = '#ffff00' # Fallback
+base14 = '#61ce3c' # Fallback
+base15 = '#93e0e3' # Fallback
+base16 = '#4c83ff' # Fallback
+base17 = '#ff1493' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#000000'
+palette-red = '#ff0000'
+palette-green = '#61ce3c'
+palette-yellow = '#ffff00'
+palette-blue = '#4c83ff'
+palette-magenta = '#ff1493'
+palette-cyan = '#93e0e3'
+palette-white = '#f8f8f8'
+palette-gray = '#4f4f4f'
+palette-orange = '#ffa500'
+palette-brown = '#ff8c00'
+
+palette-black-bright = '#2b2b2b'
+palette-red-bright = '#ff0000' # Fallback
+palette-green-bright = '#61ce3c' # Fallback
+palette-yellow-bright = '#ffff00' # Fallback
+palette-blue-bright = '#4c83ff' # Fallback
+palette-magenta-bright = '#ff1493' # Fallback
+palette-cyan-bright = '#93e0e3' # Fallback
+palette-white-bright = '#ffffff'
+palette-gray-bright = '#8b8989'
+palette-orange-bright = '#ffa500' # Fallback
+palette-brown-bright = '#ff8c00' # Fallback
+
+palette-black-dim = '#000000' # Fallback
+palette-red-dim = '#ff0000' # Fallback
+palette-green-dim = '#61ce3c' # Fallback
+palette-yellow-dim = '#ffff00' # Fallback
+palette-blue-dim = '#4c83ff' # Fallback
+palette-magenta-dim = '#ff1493' # Fallback
+palette-cyan-dim = '#93e0e3' # Fallback
+palette-white-dim = '#dcdccc'
+palette-gray-dim = '#383838'
+palette-orange-dim = '#ffa500' # Fallback
+palette-brown-dim = '#ff8c00' # Fallback
+
+ui-global-dark-background =	'#000000' # Fallback
+ui-global-dark-foreground = '#dcdccc'
+ui-global-light-background = '#2b2b2b'
+ui-global-light-foreground = '#ffffff'
+ui-global-normal-background = '#000000'
+ui-global-normal-foreground = '#f8f8f8'
+
+ui-status-error = '#ff0000'
+ui-status-info = '#ffa500'
+ui-status-success = '#61ce3c'
+ui-status-warning = '#ffff00'

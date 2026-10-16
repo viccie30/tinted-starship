@@ -1,0 +1,96 @@
+[palettes.base16-lichen-chartreuse-light]
+# Lichen Chartreuse Light
+# Description: Low-glare chartreuse theme with green-gray neutrals; light compatibility palette.
+# Author: Aaron Colichia (https://aaron.colichia.org/)
+# Variant: light
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#f5f7f2' # Fallback
+background-extreme = '#f5f7f2' # Fallback
+background = '#f5f7f2'
+background-less-extreme = '#ecefe7'
+background-least-extreme = '#cfe4ae'
+
+foreground-least-extreme = '#687161'
+foreground-less-extreme = '#4e5149'
+foreground = '#2d302b'
+foreground-extreme = '#232420'
+foreground-most-extreme = '#151613'
+
+# Base16
+base00 = '#f5f7f2'
+base01 = '#ecefe7'
+base02 = '#cfe4ae'
+base03 = '#687161'
+base04 = '#4e5149'
+base05 = '#2d302b'
+base06 = '#232420'
+base07 = '#151613'
+base08 = '#a34740'
+base09 = '#8b5d27'
+base0A = '#506b29'
+base0B = '#2f7462'
+base0C = '#356569'
+base0D = '#356e8a'
+base0E = '#6e5689'
+base0F = '#8a4f67'
+
+# Base24 compatibility
+base10 = '#f5f7f2' # Fallback
+base11 = '#f5f7f2' # Fallback
+base12 = '#a34740' # Fallback
+base13 = '#506b29' # Fallback
+base14 = '#2f7462' # Fallback
+base15 = '#356569' # Fallback
+base16 = '#356e8a' # Fallback
+base17 = '#6e5689' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#232420'
+palette-red = '#a34740'
+palette-green = '#2f7462'
+palette-yellow = '#506b29'
+palette-blue = '#356e8a'
+palette-magenta = '#6e5689'
+palette-cyan = '#356569'
+palette-white = '#f5f7f2'
+palette-gray = '#687161'
+palette-orange = '#8b5d27'
+palette-brown = '#8a4f67'
+
+palette-black-bright = '#2d302b'
+palette-red-bright = '#a34740' # Fallback
+palette-green-bright = '#2f7462' # Fallback
+palette-yellow-bright = '#506b29' # Fallback
+palette-blue-bright = '#356e8a' # Fallback
+palette-magenta-bright = '#6e5689' # Fallback
+palette-cyan-bright = '#356569' # Fallback
+palette-white-bright = '#f5f7f2' # Fallback
+palette-gray-bright = '#cfe4ae'
+palette-orange-bright = '#8b5d27' # Fallback
+palette-brown-bright = '#8a4f67' # Fallback
+
+palette-black-dim = '#151613'
+palette-red-dim = '#a34740' # Fallback
+palette-green-dim = '#2f7462' # Fallback
+palette-yellow-dim = '#506b29' # Fallback
+palette-blue-dim = '#356e8a' # Fallback
+palette-magenta-dim = '#6e5689' # Fallback
+palette-cyan-dim = '#356569' # Fallback
+palette-white-dim = '#ecefe7'
+palette-gray-dim = '#4e5149'
+palette-orange-dim = '#8b5d27' # Fallback
+palette-brown-dim = '#8a4f67' # Fallback
+
+ui-global-dark-background =	'#f5f7f2' # Fallback
+ui-global-dark-foreground = '#2d302b'
+ui-global-light-background = '#ecefe7'
+ui-global-light-foreground = '#151613'
+ui-global-normal-background = '#f5f7f2'
+ui-global-normal-foreground = '#232420'
+
+ui-status-error = '#a34740'
+ui-status-info = '#8b5d27'
+ui-status-success = '#2f7462'
+ui-status-warning = '#506b29'

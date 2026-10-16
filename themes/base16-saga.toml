@@ -1,0 +1,95 @@
+[palettes.base16-saga]
+# SAGA
+# Author: https://github.com/SAGAtheme/SAGA
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#05080a' # Fallback
+background-extreme = '#05080a' # Fallback
+background = '#05080a'
+background-less-extreme = '#0a1014'
+background-least-extreme = '#0f181e'
+
+foreground-least-extreme = '#141f27'
+foreground-less-extreme = '#192630'
+foreground = '#dce2f7'
+foreground-extreme = '#f8eae7'
+foreground-most-extreme = '#ccd3fe'
+
+# Base16
+base00 = '#05080a'
+base01 = '#0a1014'
+base02 = '#0f181e'
+base03 = '#141f27'
+base04 = '#192630'
+base05 = '#dce2f7'
+base06 = '#f8eae7'
+base07 = '#ccd3fe'
+base08 = '#ffd4e9'
+base09 = '#fbcbae'
+base0A = '#fbebc8'
+base0B = '#f7ddff'
+base0C = '#c5edc1'
+base0D = '#c9fff7'
+base0E = '#dcc3f9'
+base0F = '#f6dddd'
+
+# Base24 compatibility
+base10 = '#05080a' # Fallback
+base11 = '#05080a' # Fallback
+base12 = '#ffd4e9' # Fallback
+base13 = '#fbebc8' # Fallback
+base14 = '#f7ddff' # Fallback
+base15 = '#c5edc1' # Fallback
+base16 = '#c9fff7' # Fallback
+base17 = '#dcc3f9' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#05080a'
+palette-red = '#ffd4e9'
+palette-green = '#f7ddff'
+palette-yellow = '#fbebc8'
+palette-blue = '#c9fff7'
+palette-magenta = '#dcc3f9'
+palette-cyan = '#c5edc1'
+palette-white = '#f8eae7'
+palette-gray = '#141f27'
+palette-orange = '#fbcbae'
+palette-brown = '#f6dddd'
+
+palette-black-bright = '#0a1014'
+palette-red-bright = '#ffd4e9' # Fallback
+palette-green-bright = '#f7ddff' # Fallback
+palette-yellow-bright = '#fbebc8' # Fallback
+palette-blue-bright = '#c9fff7' # Fallback
+palette-magenta-bright = '#dcc3f9' # Fallback
+palette-cyan-bright = '#c5edc1' # Fallback
+palette-white-bright = '#ccd3fe'
+palette-gray-bright = '#192630'
+palette-orange-bright = '#fbcbae' # Fallback
+palette-brown-bright = '#f6dddd' # Fallback
+
+palette-black-dim = '#05080a' # Fallback
+palette-red-dim = '#ffd4e9' # Fallback
+palette-green-dim = '#f7ddff' # Fallback
+palette-yellow-dim = '#fbebc8' # Fallback
+palette-blue-dim = '#c9fff7' # Fallback
+palette-magenta-dim = '#dcc3f9' # Fallback
+palette-cyan-dim = '#c5edc1' # Fallback
+palette-white-dim = '#dce2f7'
+palette-gray-dim = '#0f181e'
+palette-orange-dim = '#fbcbae' # Fallback
+palette-brown-dim = '#f6dddd' # Fallback
+
+ui-global-dark-background =	'#05080a' # Fallback
+ui-global-dark-foreground = '#dce2f7'
+ui-global-light-background = '#0a1014'
+ui-global-light-foreground = '#ccd3fe'
+ui-global-normal-background = '#05080a'
+ui-global-normal-foreground = '#f8eae7'
+
+ui-status-error = '#ffd4e9'
+ui-status-info = '#fbcbae'
+ui-status-success = '#f7ddff'
+ui-status-warning = '#fbebc8'

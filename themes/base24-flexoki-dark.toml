@@ -1,0 +1,94 @@
+[palettes.base24-flexoki-dark]
+# Flexoki Dark
+# Description: Inky color scheme for prose and code
+# Author: Steph Ango (https://github.com/kepano/flexoki)
+# Variant: dark
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#000000'
+background-extreme = '#1c1b1a'
+background = '#100f0f'
+background-less-extreme = '#1c1b1a'
+background-least-extreme = '#282726'
+
+foreground-least-extreme = '#575653'
+foreground-less-extreme = '#878580'
+foreground = '#cecdc3'
+foreground-extreme = '#e6e4d9'
+foreground-most-extreme = '#fffcf0'
+
+# Base24
+base00 = '#100f0f'
+base01 = '#1c1b1a'
+base02 = '#282726'
+base03 = '#575653'
+base04 = '#878580'
+base05 = '#cecdc3'
+base06 = '#e6e4d9'
+base07 = '#fffcf0'
+base08 = '#d14d41'
+base09 = '#da702c'
+base0A = '#d0a215'
+base0B = '#879a39'
+base0C = '#3aa99f'
+base0D = '#4385be'
+base0E = '#8b7ec8'
+base0F = '#ce5d97'
+base10 = '#1c1b1a'
+base11 = '#000000'
+base12 = '#af3029'
+base13 = '#bc5215'
+base14 = '#ad8301'
+base15 = '#66800b'
+base16 = '#24837b'
+base17 = '#205ea6'
+
+# Tinted8 compatibility
+palette-black = '#100f0f'
+palette-red = '#d14d41'
+palette-green = '#879a39'
+palette-yellow = '#d0a215'
+palette-blue = '#4385be'
+palette-magenta = '#8b7ec8'
+palette-cyan = '#3aa99f'
+palette-white = '#e6e4d9'
+palette-gray = '#575653'
+palette-orange = '#da702c'
+palette-brown = '#ce5d97'
+
+palette-black-bright = '#1c1b1a'
+palette-red-bright = '#af3029'
+palette-green-bright = '#ad8301'
+palette-yellow-bright = '#bc5215'
+palette-blue-bright = '#24837b'
+palette-magenta-bright = '#205ea6'
+palette-cyan-bright = '#66800b'
+palette-white-bright = '#fffcf0'
+palette-gray-bright = '#878580'
+palette-orange-bright = '#da702c' # Fallback
+palette-brown-bright = '#ce5d97' # Fallback
+
+palette-black-dim = '#1c1b1a'
+palette-red-dim = '#d14d41' # Fallback
+palette-green-dim = '#879a39' # Fallback
+palette-yellow-dim = '#d0a215' # Fallback
+palette-blue-dim = '#4385be' # Fallback
+palette-magenta-dim = '#8b7ec8' # Fallback
+palette-cyan-dim = '#3aa99f' # Fallback
+palette-white-dim = '#cecdc3'
+palette-gray-dim = '#282726'
+palette-orange-dim = '#da702c' # Fallback
+palette-brown-dim = '#ce5d97' # Fallback
+
+ui-global-dark-background =	'#1c1b1a'
+ui-global-dark-foreground = '#cecdc3'
+ui-global-light-background = '#1c1b1a'
+ui-global-light-foreground = '#fffcf0'
+ui-global-normal-background = '#100f0f'
+ui-global-normal-foreground = '#e6e4d9'
+
+ui-status-error = '#d14d41'
+ui-status-info = '#da702c'
+ui-status-success = '#879a39'
+ui-status-warning = '#d0a215'

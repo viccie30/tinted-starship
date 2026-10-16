@@ -1,0 +1,95 @@
+[palettes.base16-harmonic16-light]
+# Harmonic16 Light
+# Author: Jannik Siebert (https://github.com/janniks)
+# Variant: light
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#f7f9fb' # Fallback
+background-extreme = '#f7f9fb' # Fallback
+background = '#f7f9fb'
+background-less-extreme = '#e5ebf1'
+background-least-extreme = '#cbd6e2'
+
+foreground-least-extreme = '#aabcce'
+foreground-less-extreme = '#627e99'
+foreground = '#405c79'
+foreground-extreme = '#223b54'
+foreground-most-extreme = '#0b1c2c'
+
+# Base16
+base00 = '#f7f9fb'
+base01 = '#e5ebf1'
+base02 = '#cbd6e2'
+base03 = '#aabcce'
+base04 = '#627e99'
+base05 = '#405c79'
+base06 = '#223b54'
+base07 = '#0b1c2c'
+base08 = '#bf8b56'
+base09 = '#bfbf56'
+base0A = '#8bbf56'
+base0B = '#56bf8b'
+base0C = '#568bbf'
+base0D = '#8b56bf'
+base0E = '#bf568b'
+base0F = '#bf5656'
+
+# Base24 compatibility
+base10 = '#f7f9fb' # Fallback
+base11 = '#f7f9fb' # Fallback
+base12 = '#bf8b56' # Fallback
+base13 = '#8bbf56' # Fallback
+base14 = '#56bf8b' # Fallback
+base15 = '#568bbf' # Fallback
+base16 = '#8b56bf' # Fallback
+base17 = '#bf568b' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#223b54'
+palette-red = '#bf8b56'
+palette-green = '#56bf8b'
+palette-yellow = '#8bbf56'
+palette-blue = '#8b56bf'
+palette-magenta = '#bf568b'
+palette-cyan = '#568bbf'
+palette-white = '#f7f9fb'
+palette-gray = '#aabcce'
+palette-orange = '#bfbf56'
+palette-brown = '#bf5656'
+
+palette-black-bright = '#405c79'
+palette-red-bright = '#bf8b56' # Fallback
+palette-green-bright = '#56bf8b' # Fallback
+palette-yellow-bright = '#8bbf56' # Fallback
+palette-blue-bright = '#8b56bf' # Fallback
+palette-magenta-bright = '#bf568b' # Fallback
+palette-cyan-bright = '#568bbf' # Fallback
+palette-white-bright = '#f7f9fb' # Fallback
+palette-gray-bright = '#cbd6e2'
+palette-orange-bright = '#bfbf56' # Fallback
+palette-brown-bright = '#bf5656' # Fallback
+
+palette-black-dim = '#0b1c2c'
+palette-red-dim = '#bf8b56' # Fallback
+palette-green-dim = '#56bf8b' # Fallback
+palette-yellow-dim = '#8bbf56' # Fallback
+palette-blue-dim = '#8b56bf' # Fallback
+palette-magenta-dim = '#bf568b' # Fallback
+palette-cyan-dim = '#568bbf' # Fallback
+palette-white-dim = '#e5ebf1'
+palette-gray-dim = '#627e99'
+palette-orange-dim = '#bfbf56' # Fallback
+palette-brown-dim = '#bf5656' # Fallback
+
+ui-global-dark-background =	'#f7f9fb' # Fallback
+ui-global-dark-foreground = '#405c79'
+ui-global-light-background = '#e5ebf1'
+ui-global-light-foreground = '#0b1c2c'
+ui-global-normal-background = '#f7f9fb'
+ui-global-normal-foreground = '#223b54'
+
+ui-status-error = '#bf8b56'
+ui-status-info = '#bfbf56'
+ui-status-success = '#56bf8b'
+ui-status-warning = '#8bbf56'

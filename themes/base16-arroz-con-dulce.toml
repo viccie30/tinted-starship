@@ -1,0 +1,96 @@
+[palettes.base16-arroz-con-dulce]
+# Arroz con Dulce
+# Description: Coconut cream, rice, cinnamon, clove, toasted sugar, and raisin tones inspired by Puerto Rican arroz con dulce.
+# Author: Richard Martinez
+# Variant: light
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#fff8e7' # Fallback
+background-extreme = '#fff8e7' # Fallback
+background = '#fff8e7'
+background-less-extreme = '#f7ebd3'
+background-least-extreme = '#ead6b8'
+
+foreground-least-extreme = '#c8a77a'
+foreground-less-extreme = '#765b45'
+foreground = '#4a2c20'
+foreground-extreme = '#321c14'
+foreground-most-extreme = '#21110b'
+
+# Base16
+base00 = '#fff8e7'
+base01 = '#f7ebd3'
+base02 = '#ead6b8'
+base03 = '#c8a77a'
+base04 = '#765b45'
+base05 = '#4a2c20'
+base06 = '#321c14'
+base07 = '#21110b'
+base08 = '#a11d48'
+base09 = '#a3470a'
+base0A = '#855500'
+base0B = '#a2380c'
+base0C = '#98263e'
+base0D = '#5940a0'
+base0E = '#8c1f68'
+base0F = '#653221'
+
+# Base24 compatibility
+base10 = '#fff8e7' # Fallback
+base11 = '#fff8e7' # Fallback
+base12 = '#a11d48' # Fallback
+base13 = '#855500' # Fallback
+base14 = '#a2380c' # Fallback
+base15 = '#98263e' # Fallback
+base16 = '#5940a0' # Fallback
+base17 = '#8c1f68' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#321c14'
+palette-red = '#a11d48'
+palette-green = '#a2380c'
+palette-yellow = '#855500'
+palette-blue = '#5940a0'
+palette-magenta = '#8c1f68'
+palette-cyan = '#98263e'
+palette-white = '#fff8e7'
+palette-gray = '#c8a77a'
+palette-orange = '#a3470a'
+palette-brown = '#653221'
+
+palette-black-bright = '#4a2c20'
+palette-red-bright = '#a11d48' # Fallback
+palette-green-bright = '#a2380c' # Fallback
+palette-yellow-bright = '#855500' # Fallback
+palette-blue-bright = '#5940a0' # Fallback
+palette-magenta-bright = '#8c1f68' # Fallback
+palette-cyan-bright = '#98263e' # Fallback
+palette-white-bright = '#fff8e7' # Fallback
+palette-gray-bright = '#ead6b8'
+palette-orange-bright = '#a3470a' # Fallback
+palette-brown-bright = '#653221' # Fallback
+
+palette-black-dim = '#21110b'
+palette-red-dim = '#a11d48' # Fallback
+palette-green-dim = '#a2380c' # Fallback
+palette-yellow-dim = '#855500' # Fallback
+palette-blue-dim = '#5940a0' # Fallback
+palette-magenta-dim = '#8c1f68' # Fallback
+palette-cyan-dim = '#98263e' # Fallback
+palette-white-dim = '#f7ebd3'
+palette-gray-dim = '#765b45'
+palette-orange-dim = '#a3470a' # Fallback
+palette-brown-dim = '#653221' # Fallback
+
+ui-global-dark-background =	'#fff8e7' # Fallback
+ui-global-dark-foreground = '#4a2c20'
+ui-global-light-background = '#f7ebd3'
+ui-global-light-foreground = '#21110b'
+ui-global-normal-background = '#fff8e7'
+ui-global-normal-foreground = '#321c14'
+
+ui-status-error = '#a11d48'
+ui-status-info = '#a3470a'
+ui-status-success = '#a2380c'
+ui-status-warning = '#855500'

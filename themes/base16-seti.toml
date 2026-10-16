@@ -1,0 +1,95 @@
+[palettes.base16-seti]
+# Seti UI
+# Author: 
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#151718' # Fallback
+background-extreme = '#151718' # Fallback
+background = '#151718'
+background-less-extreme = '#282a2b'
+background-least-extreme = '#3b758c'
+
+foreground-least-extreme = '#41535b'
+foreground-less-extreme = '#43a5d5'
+foreground = '#d6d6d6'
+foreground-extreme = '#eeeeee'
+foreground-most-extreme = '#ffffff'
+
+# Base16
+base00 = '#151718'
+base01 = '#282a2b'
+base02 = '#3b758c'
+base03 = '#41535b'
+base04 = '#43a5d5'
+base05 = '#d6d6d6'
+base06 = '#eeeeee'
+base07 = '#ffffff'
+base08 = '#cd3f45'
+base09 = '#db7b55'
+base0A = '#e6cd69'
+base0B = '#9fca56'
+base0C = '#55dbbe'
+base0D = '#55b5db'
+base0E = '#a074c4'
+base0F = '#8a553f'
+
+# Base24 compatibility
+base10 = '#151718' # Fallback
+base11 = '#151718' # Fallback
+base12 = '#cd3f45' # Fallback
+base13 = '#e6cd69' # Fallback
+base14 = '#9fca56' # Fallback
+base15 = '#55dbbe' # Fallback
+base16 = '#55b5db' # Fallback
+base17 = '#a074c4' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#151718'
+palette-red = '#cd3f45'
+palette-green = '#9fca56'
+palette-yellow = '#e6cd69'
+palette-blue = '#55b5db'
+palette-magenta = '#a074c4'
+palette-cyan = '#55dbbe'
+palette-white = '#eeeeee'
+palette-gray = '#41535b'
+palette-orange = '#db7b55'
+palette-brown = '#8a553f'
+
+palette-black-bright = '#282a2b'
+palette-red-bright = '#cd3f45' # Fallback
+palette-green-bright = '#9fca56' # Fallback
+palette-yellow-bright = '#e6cd69' # Fallback
+palette-blue-bright = '#55b5db' # Fallback
+palette-magenta-bright = '#a074c4' # Fallback
+palette-cyan-bright = '#55dbbe' # Fallback
+palette-white-bright = '#ffffff'
+palette-gray-bright = '#43a5d5'
+palette-orange-bright = '#db7b55' # Fallback
+palette-brown-bright = '#8a553f' # Fallback
+
+palette-black-dim = '#151718' # Fallback
+palette-red-dim = '#cd3f45' # Fallback
+palette-green-dim = '#9fca56' # Fallback
+palette-yellow-dim = '#e6cd69' # Fallback
+palette-blue-dim = '#55b5db' # Fallback
+palette-magenta-dim = '#a074c4' # Fallback
+palette-cyan-dim = '#55dbbe' # Fallback
+palette-white-dim = '#d6d6d6'
+palette-gray-dim = '#3b758c'
+palette-orange-dim = '#db7b55' # Fallback
+palette-brown-dim = '#8a553f' # Fallback
+
+ui-global-dark-background =	'#151718' # Fallback
+ui-global-dark-foreground = '#d6d6d6'
+ui-global-light-background = '#282a2b'
+ui-global-light-foreground = '#ffffff'
+ui-global-normal-background = '#151718'
+ui-global-normal-foreground = '#eeeeee'
+
+ui-status-error = '#cd3f45'
+ui-status-info = '#db7b55'
+ui-status-success = '#9fca56'
+ui-status-warning = '#e6cd69'

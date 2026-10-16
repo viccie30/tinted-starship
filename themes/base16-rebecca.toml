@@ -1,0 +1,95 @@
+[palettes.base16-rebecca]
+# Rebecca
+# Author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#292a44' # Fallback
+background-extreme = '#292a44' # Fallback
+background = '#292a44'
+background-less-extreme = '#663399'
+background-least-extreme = '#383a62'
+
+foreground-least-extreme = '#666699'
+foreground-less-extreme = '#a0a0c5'
+foreground = '#f1eff8'
+foreground-extreme = '#ccccff'
+foreground-most-extreme = '#53495d'
+
+# Base16
+base00 = '#292a44'
+base01 = '#663399'
+base02 = '#383a62'
+base03 = '#666699'
+base04 = '#a0a0c5'
+base05 = '#f1eff8'
+base06 = '#ccccff'
+base07 = '#53495d'
+base08 = '#a0a0c5'
+base09 = '#efe4a1'
+base0A = '#ae81ff'
+base0B = '#6dfedf'
+base0C = '#8eaee0'
+base0D = '#2de0a7'
+base0E = '#7aa5ff'
+base0F = '#ff79c6'
+
+# Base24 compatibility
+base10 = '#292a44' # Fallback
+base11 = '#292a44' # Fallback
+base12 = '#a0a0c5' # Fallback
+base13 = '#ae81ff' # Fallback
+base14 = '#6dfedf' # Fallback
+base15 = '#8eaee0' # Fallback
+base16 = '#2de0a7' # Fallback
+base17 = '#7aa5ff' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#292a44'
+palette-red = '#a0a0c5'
+palette-green = '#6dfedf'
+palette-yellow = '#ae81ff'
+palette-blue = '#2de0a7'
+palette-magenta = '#7aa5ff'
+palette-cyan = '#8eaee0'
+palette-white = '#ccccff'
+palette-gray = '#666699'
+palette-orange = '#efe4a1'
+palette-brown = '#ff79c6'
+
+palette-black-bright = '#663399'
+palette-red-bright = '#a0a0c5' # Fallback
+palette-green-bright = '#6dfedf' # Fallback
+palette-yellow-bright = '#ae81ff' # Fallback
+palette-blue-bright = '#2de0a7' # Fallback
+palette-magenta-bright = '#7aa5ff' # Fallback
+palette-cyan-bright = '#8eaee0' # Fallback
+palette-white-bright = '#53495d'
+palette-gray-bright = '#a0a0c5'
+palette-orange-bright = '#efe4a1' # Fallback
+palette-brown-bright = '#ff79c6' # Fallback
+
+palette-black-dim = '#292a44' # Fallback
+palette-red-dim = '#a0a0c5' # Fallback
+palette-green-dim = '#6dfedf' # Fallback
+palette-yellow-dim = '#ae81ff' # Fallback
+palette-blue-dim = '#2de0a7' # Fallback
+palette-magenta-dim = '#7aa5ff' # Fallback
+palette-cyan-dim = '#8eaee0' # Fallback
+palette-white-dim = '#f1eff8'
+palette-gray-dim = '#383a62'
+palette-orange-dim = '#efe4a1' # Fallback
+palette-brown-dim = '#ff79c6' # Fallback
+
+ui-global-dark-background =	'#292a44' # Fallback
+ui-global-dark-foreground = '#f1eff8'
+ui-global-light-background = '#663399'
+ui-global-light-foreground = '#53495d'
+ui-global-normal-background = '#292a44'
+ui-global-normal-foreground = '#ccccff'
+
+ui-status-error = '#a0a0c5'
+ui-status-info = '#efe4a1'
+ui-status-success = '#6dfedf'
+ui-status-warning = '#ae81ff'

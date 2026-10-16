@@ -1,0 +1,95 @@
+[palettes.base16-da-one-white]
+# Da One White
+# Author: NNB (https://github.com/NNBnh)
+# Variant: light
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#ffffff' # Fallback
+background-extreme = '#ffffff' # Fallback
+background = '#ffffff'
+background-less-extreme = '#c8c8c8'
+background-least-extreme = '#888888'
+
+foreground-least-extreme = '#585858'
+foreground-less-extreme = '#282828'
+foreground = '#181818'
+foreground-extreme = '#000000'
+foreground-most-extreme = '#000000'
+
+# Base16
+base00 = '#ffffff'
+base01 = '#c8c8c8'
+base02 = '#888888'
+base03 = '#585858'
+base04 = '#282828'
+base05 = '#181818'
+base06 = '#000000'
+base07 = '#000000'
+base08 = '#de5d6e'
+base09 = '#ff9470'
+base0A = '#b3684f'
+base0B = '#76a85d'
+base0C = '#64b5a7'
+base0D = '#5890f8'
+base0E = '#c173d1'
+base0F = '#b3684f'
+
+# Base24 compatibility
+base10 = '#ffffff' # Fallback
+base11 = '#ffffff' # Fallback
+base12 = '#de5d6e' # Fallback
+base13 = '#b3684f' # Fallback
+base14 = '#76a85d' # Fallback
+base15 = '#64b5a7' # Fallback
+base16 = '#5890f8' # Fallback
+base17 = '#c173d1' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#000000'
+palette-red = '#de5d6e'
+palette-green = '#76a85d'
+palette-yellow = '#b3684f'
+palette-blue = '#5890f8'
+palette-magenta = '#c173d1'
+palette-cyan = '#64b5a7'
+palette-white = '#ffffff'
+palette-gray = '#585858'
+palette-orange = '#ff9470'
+palette-brown = '#b3684f'
+
+palette-black-bright = '#181818'
+palette-red-bright = '#de5d6e' # Fallback
+palette-green-bright = '#76a85d' # Fallback
+palette-yellow-bright = '#b3684f' # Fallback
+palette-blue-bright = '#5890f8' # Fallback
+palette-magenta-bright = '#c173d1' # Fallback
+palette-cyan-bright = '#64b5a7' # Fallback
+palette-white-bright = '#ffffff' # Fallback
+palette-gray-bright = '#888888'
+palette-orange-bright = '#ff9470' # Fallback
+palette-brown-bright = '#b3684f' # Fallback
+
+palette-black-dim = '#000000'
+palette-red-dim = '#de5d6e' # Fallback
+palette-green-dim = '#76a85d' # Fallback
+palette-yellow-dim = '#b3684f' # Fallback
+palette-blue-dim = '#5890f8' # Fallback
+palette-magenta-dim = '#c173d1' # Fallback
+palette-cyan-dim = '#64b5a7' # Fallback
+palette-white-dim = '#c8c8c8'
+palette-gray-dim = '#282828'
+palette-orange-dim = '#ff9470' # Fallback
+palette-brown-dim = '#b3684f' # Fallback
+
+ui-global-dark-background =	'#ffffff' # Fallback
+ui-global-dark-foreground = '#181818'
+ui-global-light-background = '#c8c8c8'
+ui-global-light-foreground = '#000000'
+ui-global-normal-background = '#ffffff'
+ui-global-normal-foreground = '#000000'
+
+ui-status-error = '#de5d6e'
+ui-status-info = '#ff9470'
+ui-status-success = '#76a85d'
+ui-status-warning = '#b3684f'

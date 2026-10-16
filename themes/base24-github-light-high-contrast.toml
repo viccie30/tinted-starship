@@ -1,0 +1,93 @@
+[palettes.base24-github-light-high-contrast]
+# Github Light High Contrast
+# Author: Tinted Theming (https://github.com/tinted-theming)
+# Variant: light
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#000000'
+background-extreme = '#010409'
+background = '#ffffff'
+background-less-extreme = '#f6f8fa'
+background-least-extreme = '#d1d9e0'
+
+foreground-least-extreme = '#818b98'
+foreground-less-extreme = '#59636e'
+foreground = '#454c54'
+foreground-extreme = '#25292e'
+foreground-most-extreme = '#010409'
+
+# Base24
+base00 = '#ffffff'
+base01 = '#f6f8fa'
+base02 = '#d1d9e0'
+base03 = '#818b98'
+base04 = '#59636e'
+base05 = '#454c54'
+base06 = '#25292e'
+base07 = '#010409'
+base08 = '#a0111f'
+base09 = '#702c00'
+base0A = '#603700'
+base0B = '#024c1a'
+base0C = '#1b7c83'
+base0D = '#0349b4'
+base0E = '#622cbc'
+base0F = '#86061d'
+base10 = '#010409'
+base11 = '#000000'
+base12 = '#86061d'
+base13 = '#4e2c00'
+base14 = '#055d20'
+base15 = '#3192aa'
+base16 = '#1168e3'
+base17 = '#844ae7'
+
+# Tinted8 compatibility
+palette-black = '#25292e'
+palette-red = '#a0111f'
+palette-green = '#024c1a'
+palette-yellow = '#603700'
+palette-blue = '#0349b4'
+palette-magenta = '#622cbc'
+palette-cyan = '#1b7c83'
+palette-white = '#ffffff'
+palette-gray = '#818b98'
+palette-orange = '#702c00'
+palette-brown = '#86061d'
+
+palette-black-bright = '#454c54'
+palette-red-bright = '#86061d'
+palette-green-bright = '#055d20'
+palette-yellow-bright = '#4e2c00'
+palette-blue-bright = '#1168e3'
+palette-magenta-bright = '#844ae7'
+palette-cyan-bright = '#3192aa'
+palette-white-bright = '#010409'
+palette-gray-bright = '#d1d9e0'
+palette-orange-bright = '#702c00' # Fallback
+palette-brown-bright = '#86061d' # Fallback
+
+palette-black-dim = '#010409'
+palette-red-dim = '#a0111f' # Fallback
+palette-green-dim = '#024c1a' # Fallback
+palette-yellow-dim = '#603700' # Fallback
+palette-blue-dim = '#0349b4' # Fallback
+palette-magenta-dim = '#622cbc' # Fallback
+palette-cyan-dim = '#1b7c83' # Fallback
+palette-white-dim = '#f6f8fa'
+palette-gray-dim = '#59636e'
+palette-orange-dim = '#702c00' # Fallback
+palette-brown-dim = '#86061d' # Fallback
+
+ui-global-dark-background =	'#010409'
+ui-global-dark-foreground = '#454c54'
+ui-global-light-background = '#f6f8fa'
+ui-global-light-foreground = '#010409'
+ui-global-normal-background = '#ffffff'
+ui-global-normal-foreground = '#25292e'
+
+ui-status-error = '#a0111f'
+ui-status-info = '#702c00'
+ui-status-success = '#024c1a'
+ui-status-warning = '#603700'

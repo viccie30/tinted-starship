@@ -1,0 +1,93 @@
+[palettes.base24-embarcadero]
+# Embarcadero
+# Author: Thomas Leon Highbaugh
+# Variant: dark
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#717188'
+background-extreme = '#373742'
+background = '#252a2f'
+background-less-extreme = '#43474c'
+background-least-extreme = '#616568'
+
+foreground-least-extreme = '#7f8285'
+foreground-less-extreme = '#9ea0a2'
+foreground = '#bcbdc0'
+foreground-extreme = '#dadbdb'
+foreground-most-extreme = '#f8f8f8'
+
+# Base24
+base00 = '#252a2f'
+base01 = '#43474c'
+base02 = '#616568'
+base03 = '#7f8285'
+base04 = '#9ea0a2'
+base05 = '#bcbdc0'
+base06 = '#dadbdb'
+base07 = '#f8f8f8'
+base08 = '#ed5d86'
+base09 = '#ffcb3d'
+base0A = '#eb824d'
+base0B = '#20c290'
+base0C = '#02efef'
+base0D = '#4080d0'
+base0E = '#a070d0'
+base0F = '#50509f'
+base10 = '#373742'
+base11 = '#717188'
+base12 = '#f57d9a'
+base13 = '#ffe089'
+base14 = '#a0d0a0'
+base15 = '#40c0c0'
+base16 = '#80b0f0'
+base17 = '#c090f0'
+
+# Tinted8 compatibility
+palette-black = '#252a2f'
+palette-red = '#ed5d86'
+palette-green = '#20c290'
+palette-yellow = '#eb824d'
+palette-blue = '#4080d0'
+palette-magenta = '#a070d0'
+palette-cyan = '#02efef'
+palette-white = '#dadbdb'
+palette-gray = '#7f8285'
+palette-orange = '#ffcb3d'
+palette-brown = '#50509f'
+
+palette-black-bright = '#43474c'
+palette-red-bright = '#f57d9a'
+palette-green-bright = '#a0d0a0'
+palette-yellow-bright = '#ffe089'
+palette-blue-bright = '#80b0f0'
+palette-magenta-bright = '#c090f0'
+palette-cyan-bright = '#40c0c0'
+palette-white-bright = '#f8f8f8'
+palette-gray-bright = '#9ea0a2'
+palette-orange-bright = '#ffcb3d' # Fallback
+palette-brown-bright = '#50509f' # Fallback
+
+palette-black-dim = '#373742'
+palette-red-dim = '#ed5d86' # Fallback
+palette-green-dim = '#20c290' # Fallback
+palette-yellow-dim = '#eb824d' # Fallback
+palette-blue-dim = '#4080d0' # Fallback
+palette-magenta-dim = '#a070d0' # Fallback
+palette-cyan-dim = '#02efef' # Fallback
+palette-white-dim = '#bcbdc0'
+palette-gray-dim = '#616568'
+palette-orange-dim = '#ffcb3d' # Fallback
+palette-brown-dim = '#50509f' # Fallback
+
+ui-global-dark-background =	'#373742'
+ui-global-dark-foreground = '#bcbdc0'
+ui-global-light-background = '#43474c'
+ui-global-light-foreground = '#f8f8f8'
+ui-global-normal-background = '#252a2f'
+ui-global-normal-foreground = '#dadbdb'
+
+ui-status-error = '#ed5d86'
+ui-status-info = '#ffcb3d'
+ui-status-success = '#20c290'
+ui-status-warning = '#eb824d'

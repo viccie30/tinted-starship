@@ -1,0 +1,95 @@
+[palettes.base16-black-metal]
+# Black Metal
+# Author: metalelf0 (https://github.com/metalelf0)
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#000000' # Fallback
+background-extreme = '#000000' # Fallback
+background = '#000000'
+background-less-extreme = '#121212'
+background-least-extreme = '#222222'
+
+foreground-least-extreme = '#333333'
+foreground-less-extreme = '#999999'
+foreground = '#c1c1c1'
+foreground-extreme = '#999999'
+foreground-most-extreme = '#c1c1c1'
+
+# Base16
+base00 = '#000000'
+base01 = '#121212'
+base02 = '#222222'
+base03 = '#333333'
+base04 = '#999999'
+base05 = '#c1c1c1'
+base06 = '#999999'
+base07 = '#c1c1c1'
+base08 = '#5f8787'
+base09 = '#aaaaaa'
+base0A = '#a06666'
+base0B = '#dd9999'
+base0C = '#aaaaaa'
+base0D = '#888888'
+base0E = '#999999'
+base0F = '#444444'
+
+# Base24 compatibility
+base10 = '#000000' # Fallback
+base11 = '#000000' # Fallback
+base12 = '#5f8787' # Fallback
+base13 = '#a06666' # Fallback
+base14 = '#dd9999' # Fallback
+base15 = '#aaaaaa' # Fallback
+base16 = '#888888' # Fallback
+base17 = '#999999' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#000000'
+palette-red = '#5f8787'
+palette-green = '#dd9999'
+palette-yellow = '#a06666'
+palette-blue = '#888888'
+palette-magenta = '#999999'
+palette-cyan = '#aaaaaa'
+palette-white = '#999999'
+palette-gray = '#333333'
+palette-orange = '#aaaaaa'
+palette-brown = '#444444'
+
+palette-black-bright = '#121212'
+palette-red-bright = '#5f8787' # Fallback
+palette-green-bright = '#dd9999' # Fallback
+palette-yellow-bright = '#a06666' # Fallback
+palette-blue-bright = '#888888' # Fallback
+palette-magenta-bright = '#999999' # Fallback
+palette-cyan-bright = '#aaaaaa' # Fallback
+palette-white-bright = '#c1c1c1'
+palette-gray-bright = '#999999'
+palette-orange-bright = '#aaaaaa' # Fallback
+palette-brown-bright = '#444444' # Fallback
+
+palette-black-dim = '#000000' # Fallback
+palette-red-dim = '#5f8787' # Fallback
+palette-green-dim = '#dd9999' # Fallback
+palette-yellow-dim = '#a06666' # Fallback
+palette-blue-dim = '#888888' # Fallback
+palette-magenta-dim = '#999999' # Fallback
+palette-cyan-dim = '#aaaaaa' # Fallback
+palette-white-dim = '#c1c1c1'
+palette-gray-dim = '#222222'
+palette-orange-dim = '#aaaaaa' # Fallback
+palette-brown-dim = '#444444' # Fallback
+
+ui-global-dark-background =	'#000000' # Fallback
+ui-global-dark-foreground = '#c1c1c1'
+ui-global-light-background = '#121212'
+ui-global-light-foreground = '#c1c1c1'
+ui-global-normal-background = '#000000'
+ui-global-normal-foreground = '#999999'
+
+ui-status-error = '#5f8787'
+ui-status-info = '#aaaaaa'
+ui-status-success = '#dd9999'
+ui-status-warning = '#a06666'

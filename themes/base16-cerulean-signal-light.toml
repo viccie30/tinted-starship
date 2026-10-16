@@ -1,0 +1,96 @@
+[palettes.base16-cerulean-signal-light]
+# Cerulean Signal Light
+# Description: Low-glare cerulean interface theme with restrained neon-pink signal accents; light compatibility palette.
+# Author: Aaron Colichia (https://aaron.colichia.org/)
+# Variant: light
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#f7f9fc' # Fallback
+background-extreme = '#f7f9fc' # Fallback
+background = '#f7f9fc'
+background-less-extreme = '#eef4fb'
+background-least-extreme = '#dde7f1'
+
+foreground-least-extreme = '#637287'
+foreground-less-extreme = '#566579'
+foreground = '#232b38'
+foreground-extreme = '#202b3a'
+foreground-most-extreme = '#141d2a'
+
+# Base16
+base00 = '#f7f9fc'
+base01 = '#eef4fb'
+base02 = '#dde7f1'
+base03 = '#637287'
+base04 = '#566579'
+base05 = '#232b38'
+base06 = '#202b3a'
+base07 = '#141d2a'
+base08 = '#b4233d'
+base09 = '#9a4f00'
+base0A = '#6f6300'
+base0B = '#17795e'
+base0C = '#00727e'
+base0D = '#006fa8'
+base0E = '#a0007d'
+base0F = '#7a4e3c'
+
+# Base24 compatibility
+base10 = '#f7f9fc' # Fallback
+base11 = '#f7f9fc' # Fallback
+base12 = '#b4233d' # Fallback
+base13 = '#6f6300' # Fallback
+base14 = '#17795e' # Fallback
+base15 = '#00727e' # Fallback
+base16 = '#006fa8' # Fallback
+base17 = '#a0007d' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#202b3a'
+palette-red = '#b4233d'
+palette-green = '#17795e'
+palette-yellow = '#6f6300'
+palette-blue = '#006fa8'
+palette-magenta = '#a0007d'
+palette-cyan = '#00727e'
+palette-white = '#f7f9fc'
+palette-gray = '#637287'
+palette-orange = '#9a4f00'
+palette-brown = '#7a4e3c'
+
+palette-black-bright = '#232b38'
+palette-red-bright = '#b4233d' # Fallback
+palette-green-bright = '#17795e' # Fallback
+palette-yellow-bright = '#6f6300' # Fallback
+palette-blue-bright = '#006fa8' # Fallback
+palette-magenta-bright = '#a0007d' # Fallback
+palette-cyan-bright = '#00727e' # Fallback
+palette-white-bright = '#f7f9fc' # Fallback
+palette-gray-bright = '#dde7f1'
+palette-orange-bright = '#9a4f00' # Fallback
+palette-brown-bright = '#7a4e3c' # Fallback
+
+palette-black-dim = '#141d2a'
+palette-red-dim = '#b4233d' # Fallback
+palette-green-dim = '#17795e' # Fallback
+palette-yellow-dim = '#6f6300' # Fallback
+palette-blue-dim = '#006fa8' # Fallback
+palette-magenta-dim = '#a0007d' # Fallback
+palette-cyan-dim = '#00727e' # Fallback
+palette-white-dim = '#eef4fb'
+palette-gray-dim = '#566579'
+palette-orange-dim = '#9a4f00' # Fallback
+palette-brown-dim = '#7a4e3c' # Fallback
+
+ui-global-dark-background =	'#f7f9fc' # Fallback
+ui-global-dark-foreground = '#232b38'
+ui-global-light-background = '#eef4fb'
+ui-global-light-foreground = '#141d2a'
+ui-global-normal-background = '#f7f9fc'
+ui-global-normal-foreground = '#202b3a'
+
+ui-status-error = '#b4233d'
+ui-status-info = '#9a4f00'
+ui-status-success = '#17795e'
+ui-status-warning = '#6f6300'

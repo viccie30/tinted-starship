@@ -1,0 +1,95 @@
+[palettes.base16-atelier-sulphurpool-light]
+# Atelier Sulphurpool Light
+# Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Variant: light
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#f5f7ff' # Fallback
+background-extreme = '#f5f7ff' # Fallback
+background = '#f5f7ff'
+background-less-extreme = '#dfe2f1'
+background-least-extreme = '#979db4'
+
+foreground-least-extreme = '#898ea4'
+foreground-less-extreme = '#6b7394'
+foreground = '#5e6687'
+foreground-extreme = '#293256'
+foreground-most-extreme = '#202746'
+
+# Base16
+base00 = '#f5f7ff'
+base01 = '#dfe2f1'
+base02 = '#979db4'
+base03 = '#898ea4'
+base04 = '#6b7394'
+base05 = '#5e6687'
+base06 = '#293256'
+base07 = '#202746'
+base08 = '#c94922'
+base09 = '#c76b29'
+base0A = '#c08b30'
+base0B = '#ac9739'
+base0C = '#22a2c9'
+base0D = '#3d8fd1'
+base0E = '#6679cc'
+base0F = '#9c637a'
+
+# Base24 compatibility
+base10 = '#f5f7ff' # Fallback
+base11 = '#f5f7ff' # Fallback
+base12 = '#c94922' # Fallback
+base13 = '#c08b30' # Fallback
+base14 = '#ac9739' # Fallback
+base15 = '#22a2c9' # Fallback
+base16 = '#3d8fd1' # Fallback
+base17 = '#6679cc' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#293256'
+palette-red = '#c94922'
+palette-green = '#ac9739'
+palette-yellow = '#c08b30'
+palette-blue = '#3d8fd1'
+palette-magenta = '#6679cc'
+palette-cyan = '#22a2c9'
+palette-white = '#f5f7ff'
+palette-gray = '#898ea4'
+palette-orange = '#c76b29'
+palette-brown = '#9c637a'
+
+palette-black-bright = '#5e6687'
+palette-red-bright = '#c94922' # Fallback
+palette-green-bright = '#ac9739' # Fallback
+palette-yellow-bright = '#c08b30' # Fallback
+palette-blue-bright = '#3d8fd1' # Fallback
+palette-magenta-bright = '#6679cc' # Fallback
+palette-cyan-bright = '#22a2c9' # Fallback
+palette-white-bright = '#f5f7ff' # Fallback
+palette-gray-bright = '#979db4'
+palette-orange-bright = '#c76b29' # Fallback
+palette-brown-bright = '#9c637a' # Fallback
+
+palette-black-dim = '#202746'
+palette-red-dim = '#c94922' # Fallback
+palette-green-dim = '#ac9739' # Fallback
+palette-yellow-dim = '#c08b30' # Fallback
+palette-blue-dim = '#3d8fd1' # Fallback
+palette-magenta-dim = '#6679cc' # Fallback
+palette-cyan-dim = '#22a2c9' # Fallback
+palette-white-dim = '#dfe2f1'
+palette-gray-dim = '#6b7394'
+palette-orange-dim = '#c76b29' # Fallback
+palette-brown-dim = '#9c637a' # Fallback
+
+ui-global-dark-background =	'#f5f7ff' # Fallback
+ui-global-dark-foreground = '#5e6687'
+ui-global-light-background = '#dfe2f1'
+ui-global-light-foreground = '#202746'
+ui-global-normal-background = '#f5f7ff'
+ui-global-normal-foreground = '#293256'
+
+ui-status-error = '#c94922'
+ui-status-info = '#c76b29'
+ui-status-success = '#ac9739'
+ui-status-warning = '#c08b30'

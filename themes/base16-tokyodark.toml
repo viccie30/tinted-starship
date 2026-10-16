@@ -1,0 +1,95 @@
+[palettes.base16-tokyodark]
+# Tokyodark
+# Author: Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
+# Variant: dark
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#11121d' # Fallback
+background-extreme = '#11121d' # Fallback
+background = '#11121d'
+background-less-extreme = '#212234'
+background-least-extreme = '#212234'
+
+foreground-least-extreme = '#353945'
+foreground-less-extreme = '#4a5057'
+foreground = '#a0a8cd'
+foreground-extreme = '#abb2bf'
+foreground-most-extreme = '#bcc2dc'
+
+# Base16
+base00 = '#11121d'
+base01 = '#212234'
+base02 = '#212234'
+base03 = '#353945'
+base04 = '#4a5057'
+base05 = '#a0a8cd'
+base06 = '#abb2bf'
+base07 = '#bcc2dc'
+base08 = '#ee6d85'
+base09 = '#f6955b'
+base0A = '#d7a65f'
+base0B = '#95c561'
+base0C = '#9fbbf3'
+base0D = '#7199ee'
+base0E = '#a485dd'
+base0F = '#773440'
+
+# Base24 compatibility
+base10 = '#11121d' # Fallback
+base11 = '#11121d' # Fallback
+base12 = '#ee6d85' # Fallback
+base13 = '#d7a65f' # Fallback
+base14 = '#95c561' # Fallback
+base15 = '#9fbbf3' # Fallback
+base16 = '#7199ee' # Fallback
+base17 = '#a485dd' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#11121d'
+palette-red = '#ee6d85'
+palette-green = '#95c561'
+palette-yellow = '#d7a65f'
+palette-blue = '#7199ee'
+palette-magenta = '#a485dd'
+palette-cyan = '#9fbbf3'
+palette-white = '#abb2bf'
+palette-gray = '#353945'
+palette-orange = '#f6955b'
+palette-brown = '#773440'
+
+palette-black-bright = '#212234'
+palette-red-bright = '#ee6d85' # Fallback
+palette-green-bright = '#95c561' # Fallback
+palette-yellow-bright = '#d7a65f' # Fallback
+palette-blue-bright = '#7199ee' # Fallback
+palette-magenta-bright = '#a485dd' # Fallback
+palette-cyan-bright = '#9fbbf3' # Fallback
+palette-white-bright = '#bcc2dc'
+palette-gray-bright = '#4a5057'
+palette-orange-bright = '#f6955b' # Fallback
+palette-brown-bright = '#773440' # Fallback
+
+palette-black-dim = '#11121d' # Fallback
+palette-red-dim = '#ee6d85' # Fallback
+palette-green-dim = '#95c561' # Fallback
+palette-yellow-dim = '#d7a65f' # Fallback
+palette-blue-dim = '#7199ee' # Fallback
+palette-magenta-dim = '#a485dd' # Fallback
+palette-cyan-dim = '#9fbbf3' # Fallback
+palette-white-dim = '#a0a8cd'
+palette-gray-dim = '#212234'
+palette-orange-dim = '#f6955b' # Fallback
+palette-brown-dim = '#773440' # Fallback
+
+ui-global-dark-background =	'#11121d' # Fallback
+ui-global-dark-foreground = '#a0a8cd'
+ui-global-light-background = '#212234'
+ui-global-light-foreground = '#bcc2dc'
+ui-global-normal-background = '#11121d'
+ui-global-normal-foreground = '#abb2bf'
+
+ui-status-error = '#ee6d85'
+ui-status-info = '#f6955b'
+ui-status-success = '#95c561'
+ui-status-warning = '#d7a65f'

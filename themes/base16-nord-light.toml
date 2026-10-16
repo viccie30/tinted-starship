@@ -1,0 +1,95 @@
+[palettes.base16-nord-light]
+# Nord Light
+# Author: threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
+# Variant: light
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#e5e9f0' # Fallback
+background-extreme = '#e5e9f0' # Fallback
+background = '#e5e9f0'
+background-less-extreme = '#c2d0e7'
+background-least-extreme = '#b8c5db'
+
+foreground-least-extreme = '#aebacf'
+foreground-less-extreme = '#60728c'
+foreground = '#2e3440'
+foreground-extreme = '#3b4252'
+foreground-most-extreme = '#29838d'
+
+# Base16
+base00 = '#e5e9f0'
+base01 = '#c2d0e7'
+base02 = '#b8c5db'
+base03 = '#aebacf'
+base04 = '#60728c'
+base05 = '#2e3440'
+base06 = '#3b4252'
+base07 = '#29838d'
+base08 = '#99324b'
+base09 = '#ac4426'
+base0A = '#9a7500'
+base0B = '#4f894c'
+base0C = '#398eac'
+base0D = '#3b6ea8'
+base0E = '#97365b'
+base0F = '#5272af'
+
+# Base24 compatibility
+base10 = '#e5e9f0' # Fallback
+base11 = '#e5e9f0' # Fallback
+base12 = '#99324b' # Fallback
+base13 = '#9a7500' # Fallback
+base14 = '#4f894c' # Fallback
+base15 = '#398eac' # Fallback
+base16 = '#3b6ea8' # Fallback
+base17 = '#97365b' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#3b4252'
+palette-red = '#99324b'
+palette-green = '#4f894c'
+palette-yellow = '#9a7500'
+palette-blue = '#3b6ea8'
+palette-magenta = '#97365b'
+palette-cyan = '#398eac'
+palette-white = '#e5e9f0'
+palette-gray = '#aebacf'
+palette-orange = '#ac4426'
+palette-brown = '#5272af'
+
+palette-black-bright = '#2e3440'
+palette-red-bright = '#99324b' # Fallback
+palette-green-bright = '#4f894c' # Fallback
+palette-yellow-bright = '#9a7500' # Fallback
+palette-blue-bright = '#3b6ea8' # Fallback
+palette-magenta-bright = '#97365b' # Fallback
+palette-cyan-bright = '#398eac' # Fallback
+palette-white-bright = '#e5e9f0' # Fallback
+palette-gray-bright = '#b8c5db'
+palette-orange-bright = '#ac4426' # Fallback
+palette-brown-bright = '#5272af' # Fallback
+
+palette-black-dim = '#29838d'
+palette-red-dim = '#99324b' # Fallback
+palette-green-dim = '#4f894c' # Fallback
+palette-yellow-dim = '#9a7500' # Fallback
+palette-blue-dim = '#3b6ea8' # Fallback
+palette-magenta-dim = '#97365b' # Fallback
+palette-cyan-dim = '#398eac' # Fallback
+palette-white-dim = '#c2d0e7'
+palette-gray-dim = '#60728c'
+palette-orange-dim = '#ac4426' # Fallback
+palette-brown-dim = '#5272af' # Fallback
+
+ui-global-dark-background =	'#e5e9f0' # Fallback
+ui-global-dark-foreground = '#2e3440'
+ui-global-light-background = '#c2d0e7'
+ui-global-light-foreground = '#29838d'
+ui-global-normal-background = '#e5e9f0'
+ui-global-normal-foreground = '#3b4252'
+
+ui-status-error = '#99324b'
+ui-status-info = '#ac4426'
+ui-status-success = '#4f894c'
+ui-status-warning = '#9a7500'

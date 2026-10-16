@@ -1,0 +1,96 @@
+[palettes.base16-serendipity-morning]
+# Serendipity Morning
+# Description: Serendipity Serendipity Morning from the Serendipity theme family
+# Author: Micheal Andreuzza (https://michaelandreuzza.com/)
+# Variant: light
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#f6f7fb' # Fallback
+background-extreme = '#f6f7fb' # Fallback
+background = '#f6f7fb'
+background-less-extreme = '#eaebee'
+background-least-extreme = '#eaebee'
+
+foreground-least-extreme = '#6d7296'
+foreground-less-extreme = '#505575'
+foreground = '#3f4363'
+foreground-extreme = '#3f4363'
+foreground-most-extreme = '#f6f7fb'
+
+# Base16
+base00 = '#f6f7fb'
+base01 = '#eaebee'
+base02 = '#eaebee'
+base03 = '#6d7296'
+base04 = '#505575'
+base05 = '#3f4363'
+base06 = '#3f4363'
+base07 = '#f6f7fb'
+base08 = '#c25a4d'
+base09 = '#c25a4d'
+base0A = '#785fd0'
+base0B = '#2f7aab'
+base0C = '#e58678'
+base0D = '#6288d8'
+base0E = '#785fd0'
+base0F = '#2f7aab'
+
+# Base24 compatibility
+base10 = '#f6f7fb' # Fallback
+base11 = '#f6f7fb' # Fallback
+base12 = '#c25a4d' # Fallback
+base13 = '#785fd0' # Fallback
+base14 = '#2f7aab' # Fallback
+base15 = '#e58678' # Fallback
+base16 = '#6288d8' # Fallback
+base17 = '#785fd0' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#3f4363'
+palette-red = '#c25a4d'
+palette-green = '#2f7aab'
+palette-yellow = '#785fd0'
+palette-blue = '#6288d8'
+palette-magenta = '#785fd0'
+palette-cyan = '#e58678'
+palette-white = '#f6f7fb'
+palette-gray = '#6d7296'
+palette-orange = '#c25a4d'
+palette-brown = '#2f7aab'
+
+palette-black-bright = '#3f4363'
+palette-red-bright = '#c25a4d' # Fallback
+palette-green-bright = '#2f7aab' # Fallback
+palette-yellow-bright = '#785fd0' # Fallback
+palette-blue-bright = '#6288d8' # Fallback
+palette-magenta-bright = '#785fd0' # Fallback
+palette-cyan-bright = '#e58678' # Fallback
+palette-white-bright = '#f6f7fb' # Fallback
+palette-gray-bright = '#eaebee'
+palette-orange-bright = '#c25a4d' # Fallback
+palette-brown-bright = '#2f7aab' # Fallback
+
+palette-black-dim = '#f6f7fb'
+palette-red-dim = '#c25a4d' # Fallback
+palette-green-dim = '#2f7aab' # Fallback
+palette-yellow-dim = '#785fd0' # Fallback
+palette-blue-dim = '#6288d8' # Fallback
+palette-magenta-dim = '#785fd0' # Fallback
+palette-cyan-dim = '#e58678' # Fallback
+palette-white-dim = '#eaebee'
+palette-gray-dim = '#505575'
+palette-orange-dim = '#c25a4d' # Fallback
+palette-brown-dim = '#2f7aab' # Fallback
+
+ui-global-dark-background =	'#f6f7fb' # Fallback
+ui-global-dark-foreground = '#3f4363'
+ui-global-light-background = '#eaebee'
+ui-global-light-foreground = '#f6f7fb'
+ui-global-normal-background = '#f6f7fb'
+ui-global-normal-foreground = '#3f4363'
+
+ui-status-error = '#c25a4d'
+ui-status-info = '#c25a4d'
+ui-status-success = '#2f7aab'
+ui-status-warning = '#785fd0'

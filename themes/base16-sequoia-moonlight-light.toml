@@ -1,0 +1,96 @@
+[palettes.base16-sequoia-moonlight-light]
+# Sequoia Moonlight Light
+# Description: Sequoia Sequoia Moonlight Light from the Sequoia theme family
+# Author: Micheal Andreuzza (https://michaelandreuzza.com/)
+# Variant: light
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#edeef2' # Fallback
+background-extreme = '#edeef2' # Fallback
+background = '#edeef2'
+background-less-extreme = '#e2e3e8'
+background-least-extreme = '#e2e3e8'
+
+foreground-least-extreme = '#565760'
+foreground-less-extreme = '#42434e'
+foreground = '#282930'
+foreground-extreme = '#282930'
+foreground-most-extreme = '#0f1014'
+
+# Base16
+base00 = '#edeef2'
+base01 = '#e2e3e8'
+base02 = '#e2e3e8'
+base03 = '#565760'
+base04 = '#42434e'
+base05 = '#282930'
+base06 = '#282930'
+base07 = '#0f1014'
+base08 = '#c94da8'
+base09 = '#c94da8'
+base0A = '#6a6a78'
+base0B = '#4a85d4'
+base0C = '#d9884a'
+base0D = '#9a5fd9'
+base0E = '#6a6a78'
+base0F = '#4a85d4'
+
+# Base24 compatibility
+base10 = '#edeef2' # Fallback
+base11 = '#edeef2' # Fallback
+base12 = '#c94da8' # Fallback
+base13 = '#6a6a78' # Fallback
+base14 = '#4a85d4' # Fallback
+base15 = '#d9884a' # Fallback
+base16 = '#9a5fd9' # Fallback
+base17 = '#6a6a78' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#282930'
+palette-red = '#c94da8'
+palette-green = '#4a85d4'
+palette-yellow = '#6a6a78'
+palette-blue = '#9a5fd9'
+palette-magenta = '#6a6a78'
+palette-cyan = '#d9884a'
+palette-white = '#edeef2'
+palette-gray = '#565760'
+palette-orange = '#c94da8'
+palette-brown = '#4a85d4'
+
+palette-black-bright = '#282930'
+palette-red-bright = '#c94da8' # Fallback
+palette-green-bright = '#4a85d4' # Fallback
+palette-yellow-bright = '#6a6a78' # Fallback
+palette-blue-bright = '#9a5fd9' # Fallback
+palette-magenta-bright = '#6a6a78' # Fallback
+palette-cyan-bright = '#d9884a' # Fallback
+palette-white-bright = '#edeef2' # Fallback
+palette-gray-bright = '#e2e3e8'
+palette-orange-bright = '#c94da8' # Fallback
+palette-brown-bright = '#4a85d4' # Fallback
+
+palette-black-dim = '#0f1014'
+palette-red-dim = '#c94da8' # Fallback
+palette-green-dim = '#4a85d4' # Fallback
+palette-yellow-dim = '#6a6a78' # Fallback
+palette-blue-dim = '#9a5fd9' # Fallback
+palette-magenta-dim = '#6a6a78' # Fallback
+palette-cyan-dim = '#d9884a' # Fallback
+palette-white-dim = '#e2e3e8'
+palette-gray-dim = '#42434e'
+palette-orange-dim = '#c94da8' # Fallback
+palette-brown-dim = '#4a85d4' # Fallback
+
+ui-global-dark-background =	'#edeef2' # Fallback
+ui-global-dark-foreground = '#282930'
+ui-global-light-background = '#e2e3e8'
+ui-global-light-foreground = '#0f1014'
+ui-global-normal-background = '#edeef2'
+ui-global-normal-foreground = '#282930'
+
+ui-status-error = '#c94da8'
+ui-status-info = '#c94da8'
+ui-status-success = '#4a85d4'
+ui-status-warning = '#6a6a78'

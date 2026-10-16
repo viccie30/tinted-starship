@@ -1,0 +1,93 @@
+[palettes.base24-floraverse]
+# Floraverse
+# Author: FredHappyface (https://github.com/fredHappyface)
+# Variant: dark
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#110a19'
+background-extreme = '#221433'
+background = '#0e0c15'
+background-less-extreme = '#08002e'
+background-least-extreme = '#331e4d'
+
+foreground-least-extreme = '#634e67'
+foreground-less-extreme = '#937f82'
+foreground = '#c3af9d'
+foreground-extreme = '#f3e0b8'
+foreground-most-extreme = '#fff5db'
+
+# Base24
+base00 = '#0e0c15'
+base01 = '#08002e'
+base02 = '#331e4d'
+base03 = '#634e67'
+base04 = '#937f82'
+base05 = '#c3af9d'
+base06 = '#f3e0b8'
+base07 = '#fff5db'
+base08 = '#64002c'
+base09 = '#cd751c'
+base0A = '#40a4cf'
+base0B = '#5d731a'
+base0C = '#42a38c'
+base0D = '#1d6da1'
+base0E = '#b7077e'
+base0F = '#320016'
+base10 = '#221433'
+base11 = '#110a19'
+base12 = '#d02063'
+base13 = '#fac357'
+base14 = '#b4ce59'
+base15 = '#62caa8'
+base16 = '#40a4cf'
+base17 = '#f12aae'
+
+# Tinted8 compatibility
+palette-black = '#0e0c15'
+palette-red = '#64002c'
+palette-green = '#5d731a'
+palette-yellow = '#40a4cf'
+palette-blue = '#1d6da1'
+palette-magenta = '#b7077e'
+palette-cyan = '#42a38c'
+palette-white = '#f3e0b8'
+palette-gray = '#634e67'
+palette-orange = '#cd751c'
+palette-brown = '#320016'
+
+palette-black-bright = '#08002e'
+palette-red-bright = '#d02063'
+palette-green-bright = '#b4ce59'
+palette-yellow-bright = '#fac357'
+palette-blue-bright = '#40a4cf'
+palette-magenta-bright = '#f12aae'
+palette-cyan-bright = '#62caa8'
+palette-white-bright = '#fff5db'
+palette-gray-bright = '#937f82'
+palette-orange-bright = '#cd751c' # Fallback
+palette-brown-bright = '#320016' # Fallback
+
+palette-black-dim = '#221433'
+palette-red-dim = '#64002c' # Fallback
+palette-green-dim = '#5d731a' # Fallback
+palette-yellow-dim = '#40a4cf' # Fallback
+palette-blue-dim = '#1d6da1' # Fallback
+palette-magenta-dim = '#b7077e' # Fallback
+palette-cyan-dim = '#42a38c' # Fallback
+palette-white-dim = '#c3af9d'
+palette-gray-dim = '#331e4d'
+palette-orange-dim = '#cd751c' # Fallback
+palette-brown-dim = '#320016' # Fallback
+
+ui-global-dark-background =	'#221433'
+ui-global-dark-foreground = '#c3af9d'
+ui-global-light-background = '#08002e'
+ui-global-light-foreground = '#fff5db'
+ui-global-normal-background = '#0e0c15'
+ui-global-normal-foreground = '#f3e0b8'
+
+ui-status-error = '#64002c'
+ui-status-info = '#cd751c'
+ui-status-success = '#5d731a'
+ui-status-warning = '#40a4cf'

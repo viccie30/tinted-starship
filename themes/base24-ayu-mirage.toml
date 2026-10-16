@@ -1,0 +1,93 @@
+[palettes.base24-ayu-mirage]
+# Ayu Mirage
+# Author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
+# Variant: dark
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#1a1f29'
+background-extreme = '#171b24'
+background = '#1f2430'
+background-less-extreme = '#242936'
+background-least-extreme = '#323844'
+
+foreground-least-extreme = '#4a5059'
+foreground-less-extreme = '#707a8c'
+foreground = '#cccac2'
+foreground-extreme = '#d9d7ce'
+foreground-most-extreme = '#f3f4f5'
+
+# Base24
+base00 = '#1f2430'
+base01 = '#242936'
+base02 = '#323844'
+base03 = '#4a5059'
+base04 = '#707a8c'
+base05 = '#cccac2'
+base06 = '#d9d7ce'
+base07 = '#f3f4f5'
+base08 = '#f28779'
+base09 = '#ffad66'
+base0A = '#ffd173'
+base0B = '#d5ff80'
+base0C = '#95e6cb'
+base0D = '#73d0ff'
+base0E = '#d4bfff'
+base0F = '#f27983'
+base10 = '#171b24'
+base11 = '#1a1f29'
+base12 = '#ff6666'
+base13 = '#ffcc66'
+base14 = '#87d963'
+base15 = '#5ccfe6'
+base16 = '#80b0ff'
+base17 = '#b692ff'
+
+# Tinted8 compatibility
+palette-black = '#1f2430'
+palette-red = '#f28779'
+palette-green = '#d5ff80'
+palette-yellow = '#ffd173'
+palette-blue = '#73d0ff'
+palette-magenta = '#d4bfff'
+palette-cyan = '#95e6cb'
+palette-white = '#d9d7ce'
+palette-gray = '#4a5059'
+palette-orange = '#ffad66'
+palette-brown = '#f27983'
+
+palette-black-bright = '#242936'
+palette-red-bright = '#ff6666'
+palette-green-bright = '#87d963'
+palette-yellow-bright = '#ffcc66'
+palette-blue-bright = '#80b0ff'
+palette-magenta-bright = '#b692ff'
+palette-cyan-bright = '#5ccfe6'
+palette-white-bright = '#f3f4f5'
+palette-gray-bright = '#707a8c'
+palette-orange-bright = '#ffad66' # Fallback
+palette-brown-bright = '#f27983' # Fallback
+
+palette-black-dim = '#171b24'
+palette-red-dim = '#f28779' # Fallback
+palette-green-dim = '#d5ff80' # Fallback
+palette-yellow-dim = '#ffd173' # Fallback
+palette-blue-dim = '#73d0ff' # Fallback
+palette-magenta-dim = '#d4bfff' # Fallback
+palette-cyan-dim = '#95e6cb' # Fallback
+palette-white-dim = '#cccac2'
+palette-gray-dim = '#323844'
+palette-orange-dim = '#ffad66' # Fallback
+palette-brown-dim = '#f27983' # Fallback
+
+ui-global-dark-background =	'#171b24'
+ui-global-dark-foreground = '#cccac2'
+ui-global-light-background = '#242936'
+ui-global-light-foreground = '#f3f4f5'
+ui-global-normal-background = '#1f2430'
+ui-global-normal-foreground = '#d9d7ce'
+
+ui-status-error = '#f28779'
+ui-status-info = '#ffad66'
+ui-status-success = '#d5ff80'
+ui-status-warning = '#ffd173'

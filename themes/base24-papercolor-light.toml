@@ -1,0 +1,93 @@
+[palettes.base24-papercolor-light]
+# PaperColor Light
+# Author: Nguyen Nguyen (https://github.com/NLKNguyen/papercolor-theme)
+# Variant: light
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#ffffff'
+background-extreme = '#f4f4f4'
+background = '#eeeeee'
+background-less-extreme = '#e4e4e4'
+background-least-extreme = '#d0d0d0'
+
+foreground-least-extreme = '#878787'
+foreground-less-extreme = '#b2b2b2'
+foreground = '#444444'
+foreground-extreme = '#005f87'
+foreground-most-extreme = '#0087af'
+
+# Base24
+base00 = '#eeeeee'
+base01 = '#e4e4e4'
+base02 = '#d0d0d0'
+base03 = '#878787'
+base04 = '#b2b2b2'
+base05 = '#444444'
+base06 = '#005f87'
+base07 = '#0087af'
+base08 = '#af0000'
+base09 = '#d70087'
+base0A = '#5f8700'
+base0B = '#008700'
+base0C = '#d75f00'
+base0D = '#0087af'
+base0E = '#8700af'
+base0F = '#005faf'
+base10 = '#f4f4f4'
+base11 = '#ffffff'
+base12 = '#d70000'
+base13 = '#ff00af'
+base14 = '#87af00'
+base15 = '#00af00'
+base16 = '#ff8700'
+base17 = '#5fafff'
+
+# Tinted8 compatibility
+palette-black = '#005f87'
+palette-red = '#af0000'
+palette-green = '#008700'
+palette-yellow = '#5f8700'
+palette-blue = '#0087af'
+palette-magenta = '#8700af'
+palette-cyan = '#d75f00'
+palette-white = '#eeeeee'
+palette-gray = '#878787'
+palette-orange = '#d70087'
+palette-brown = '#005faf'
+
+palette-black-bright = '#444444'
+palette-red-bright = '#d70000'
+palette-green-bright = '#87af00'
+palette-yellow-bright = '#ff00af'
+palette-blue-bright = '#ff8700'
+palette-magenta-bright = '#5fafff'
+palette-cyan-bright = '#00af00'
+palette-white-bright = '#f4f4f4'
+palette-gray-bright = '#d0d0d0'
+palette-orange-bright = '#d70087' # Fallback
+palette-brown-bright = '#005faf' # Fallback
+
+palette-black-dim = '#0087af'
+palette-red-dim = '#af0000' # Fallback
+palette-green-dim = '#008700' # Fallback
+palette-yellow-dim = '#5f8700' # Fallback
+palette-blue-dim = '#0087af' # Fallback
+palette-magenta-dim = '#8700af' # Fallback
+palette-cyan-dim = '#d75f00' # Fallback
+palette-white-dim = '#e4e4e4'
+palette-gray-dim = '#b2b2b2'
+palette-orange-dim = '#d70087' # Fallback
+palette-brown-dim = '#005faf' # Fallback
+
+ui-global-dark-background =	'#f4f4f4'
+ui-global-dark-foreground = '#444444'
+ui-global-light-background = '#e4e4e4'
+ui-global-light-foreground = '#0087af'
+ui-global-normal-background = '#eeeeee'
+ui-global-normal-foreground = '#005f87'
+
+ui-status-error = '#af0000'
+ui-status-info = '#d70087'
+ui-status-success = '#008700'
+ui-status-warning = '#5f8700'

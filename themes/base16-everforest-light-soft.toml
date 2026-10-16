@@ -1,0 +1,95 @@
+[palettes.base16-everforest-light-soft]
+# Everforest Light (Soft)
+# Author: Márcio Sobel (https://github.com/marciosobel)
+# Variant: light
+# System: base16
+
+# Background and foreground
+background-most-extreme = '#f3ead3' # Fallback
+background-extreme = '#f3ead3' # Fallback
+background = '#f3ead3'
+background-less-extreme = '#eae4ca'
+background-least-extreme = '#ddd8be'
+
+foreground-least-extreme = '#939f91'
+foreground-less-extreme = '#829181'
+foreground = '#5c6a72'
+foreground-extreme = '#4d5960'
+foreground-most-extreme = '#333c43'
+
+# Base16
+base00 = '#f3ead3'
+base01 = '#eae4ca'
+base02 = '#ddd8be'
+base03 = '#939f91'
+base04 = '#829181'
+base05 = '#5c6a72'
+base06 = '#4d5960'
+base07 = '#333c43'
+base08 = '#f85552'
+base09 = '#f57d26'
+base0A = '#dfa000'
+base0B = '#8da101'
+base0C = '#35a77c'
+base0D = '#3a94c5'
+base0E = '#df69ba'
+base0F = '#829181'
+
+# Base24 compatibility
+base10 = '#f3ead3' # Fallback
+base11 = '#f3ead3' # Fallback
+base12 = '#f85552' # Fallback
+base13 = '#dfa000' # Fallback
+base14 = '#8da101' # Fallback
+base15 = '#35a77c' # Fallback
+base16 = '#3a94c5' # Fallback
+base17 = '#df69ba' # Fallback
+
+# Tinted8 compatibility
+palette-black = '#4d5960'
+palette-red = '#f85552'
+palette-green = '#8da101'
+palette-yellow = '#dfa000'
+palette-blue = '#3a94c5'
+palette-magenta = '#df69ba'
+palette-cyan = '#35a77c'
+palette-white = '#f3ead3'
+palette-gray = '#939f91'
+palette-orange = '#f57d26'
+palette-brown = '#829181'
+
+palette-black-bright = '#5c6a72'
+palette-red-bright = '#f85552' # Fallback
+palette-green-bright = '#8da101' # Fallback
+palette-yellow-bright = '#dfa000' # Fallback
+palette-blue-bright = '#3a94c5' # Fallback
+palette-magenta-bright = '#df69ba' # Fallback
+palette-cyan-bright = '#35a77c' # Fallback
+palette-white-bright = '#f3ead3' # Fallback
+palette-gray-bright = '#ddd8be'
+palette-orange-bright = '#f57d26' # Fallback
+palette-brown-bright = '#829181' # Fallback
+
+palette-black-dim = '#333c43'
+palette-red-dim = '#f85552' # Fallback
+palette-green-dim = '#8da101' # Fallback
+palette-yellow-dim = '#dfa000' # Fallback
+palette-blue-dim = '#3a94c5' # Fallback
+palette-magenta-dim = '#df69ba' # Fallback
+palette-cyan-dim = '#35a77c' # Fallback
+palette-white-dim = '#eae4ca'
+palette-gray-dim = '#829181'
+palette-orange-dim = '#f57d26' # Fallback
+palette-brown-dim = '#829181' # Fallback
+
+ui-global-dark-background =	'#f3ead3' # Fallback
+ui-global-dark-foreground = '#5c6a72'
+ui-global-light-background = '#eae4ca'
+ui-global-light-foreground = '#333c43'
+ui-global-normal-background = '#f3ead3'
+ui-global-normal-foreground = '#4d5960'
+
+ui-status-error = '#f85552'
+ui-status-info = '#f57d26'
+ui-status-success = '#8da101'
+ui-status-warning = '#dfa000'

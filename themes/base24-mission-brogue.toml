@@ -1,0 +1,93 @@
+[palettes.base24-mission-brogue]
+# Mission Brogue
+# Author: Thomas Leon Highbaugh
+# Variant: dark
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#79797a'
+background-extreme = '#3e3e3b'
+background = '#283139'
+background-less-extreme = '#3b4954'
+background-least-extreme = '#4d606f'
+
+foreground-least-extreme = '#60778a'
+foreground-less-extreme = '#788ea1'
+foreground = '#93a5b4'
+foreground-extreme = '#abb9c4'
+foreground-most-extreme = '#e7ebee'
+
+# Base24
+base00 = '#283139'
+base01 = '#3b4954'
+base02 = '#4d606f'
+base03 = '#60778a'
+base04 = '#788ea1'
+base05 = '#93a5b4'
+base06 = '#abb9c4'
+base07 = '#e7ebee'
+base08 = '#efa9a9'
+base09 = '#f2db78'
+base0A = '#e0b88a'
+base0B = '#8cd4b0'
+base0C = '#93dfec'
+base0D = '#a2c5fd'
+base0E = '#ccb7db'
+base0F = '#8e9ecb'
+base10 = '#3e3e3b'
+base11 = '#79797a'
+base12 = '#f6bfbf'
+base13 = '#fff0b2'
+base14 = '#b5e090'
+base15 = '#b2f0fd'
+base16 = '#c3d9fd'
+base17 = '#e3c3e6'
+
+# Tinted8 compatibility
+palette-black = '#283139'
+palette-red = '#efa9a9'
+palette-green = '#8cd4b0'
+palette-yellow = '#e0b88a'
+palette-blue = '#a2c5fd'
+palette-magenta = '#ccb7db'
+palette-cyan = '#93dfec'
+palette-white = '#abb9c4'
+palette-gray = '#60778a'
+palette-orange = '#f2db78'
+palette-brown = '#8e9ecb'
+
+palette-black-bright = '#3b4954'
+palette-red-bright = '#f6bfbf'
+palette-green-bright = '#b5e090'
+palette-yellow-bright = '#fff0b2'
+palette-blue-bright = '#c3d9fd'
+palette-magenta-bright = '#e3c3e6'
+palette-cyan-bright = '#b2f0fd'
+palette-white-bright = '#e7ebee'
+palette-gray-bright = '#788ea1'
+palette-orange-bright = '#f2db78' # Fallback
+palette-brown-bright = '#8e9ecb' # Fallback
+
+palette-black-dim = '#3e3e3b'
+palette-red-dim = '#efa9a9' # Fallback
+palette-green-dim = '#8cd4b0' # Fallback
+palette-yellow-dim = '#e0b88a' # Fallback
+palette-blue-dim = '#a2c5fd' # Fallback
+palette-magenta-dim = '#ccb7db' # Fallback
+palette-cyan-dim = '#93dfec' # Fallback
+palette-white-dim = '#93a5b4'
+palette-gray-dim = '#4d606f'
+palette-orange-dim = '#f2db78' # Fallback
+palette-brown-dim = '#8e9ecb' # Fallback
+
+ui-global-dark-background =	'#3e3e3b'
+ui-global-dark-foreground = '#93a5b4'
+ui-global-light-background = '#3b4954'
+ui-global-light-foreground = '#e7ebee'
+ui-global-normal-background = '#283139'
+ui-global-normal-foreground = '#abb9c4'
+
+ui-status-error = '#efa9a9'
+ui-status-info = '#f2db78'
+ui-status-success = '#8cd4b0'
+ui-status-warning = '#e0b88a'

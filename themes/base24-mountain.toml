@@ -1,0 +1,93 @@
+[palettes.base24-mountain]
+# Mountain
+# Author: Stefan Weigl-Bosker (https://github.com/sweiglbosker), based on Mountain Theme (https://github.com/mountain-theme/Mountain)
+# Variant: dark
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#0a0a0a'
+background-extreme = '#0d0d0d'
+background = '#0f0f0f'
+background-less-extreme = '#191919'
+background-least-extreme = '#262626'
+
+foreground-least-extreme = '#393939'
+foreground-less-extreme = '#4c4c4c'
+foreground = '#cacaca'
+foreground-extreme = '#e7e7e7'
+foreground-most-extreme = '#f0f0f0'
+
+# Base24
+base00 = '#0f0f0f'
+base01 = '#191919'
+base02 = '#262626'
+base03 = '#393939'
+base04 = '#4c4c4c'
+base05 = '#cacaca'
+base06 = '#e7e7e7'
+base07 = '#f0f0f0'
+base08 = '#ac8a8c'
+base09 = '#c6a679'
+base0A = '#aca98a'
+base0B = '#8aac8b'
+base0C = '#8aabac'
+base0D = '#8f8aac'
+base0E = '#ac8aac'
+base0F = '#ac8a8c'
+base10 = '#0d0d0d'
+base11 = '#0a0a0a'
+base12 = '#c49ea0'
+base13 = '#c4c19e'
+base14 = '#9ec49f'
+base15 = '#9ec3c4'
+base16 = '#a39ec4'
+base17 = '#c49ec4'
+
+# Tinted8 compatibility
+palette-black = '#0f0f0f'
+palette-red = '#ac8a8c'
+palette-green = '#8aac8b'
+palette-yellow = '#aca98a'
+palette-blue = '#8f8aac'
+palette-magenta = '#ac8aac'
+palette-cyan = '#8aabac'
+palette-white = '#e7e7e7'
+palette-gray = '#393939'
+palette-orange = '#c6a679'
+palette-brown = '#ac8a8c'
+
+palette-black-bright = '#191919'
+palette-red-bright = '#c49ea0'
+palette-green-bright = '#9ec49f'
+palette-yellow-bright = '#c4c19e'
+palette-blue-bright = '#a39ec4'
+palette-magenta-bright = '#c49ec4'
+palette-cyan-bright = '#9ec3c4'
+palette-white-bright = '#f0f0f0'
+palette-gray-bright = '#4c4c4c'
+palette-orange-bright = '#c6a679' # Fallback
+palette-brown-bright = '#ac8a8c' # Fallback
+
+palette-black-dim = '#0d0d0d'
+palette-red-dim = '#ac8a8c' # Fallback
+palette-green-dim = '#8aac8b' # Fallback
+palette-yellow-dim = '#aca98a' # Fallback
+palette-blue-dim = '#8f8aac' # Fallback
+palette-magenta-dim = '#ac8aac' # Fallback
+palette-cyan-dim = '#8aabac' # Fallback
+palette-white-dim = '#cacaca'
+palette-gray-dim = '#262626'
+palette-orange-dim = '#c6a679' # Fallback
+palette-brown-dim = '#ac8a8c' # Fallback
+
+ui-global-dark-background =	'#0d0d0d'
+ui-global-dark-foreground = '#cacaca'
+ui-global-light-background = '#191919'
+ui-global-light-foreground = '#f0f0f0'
+ui-global-normal-background = '#0f0f0f'
+ui-global-normal-foreground = '#e7e7e7'
+
+ui-status-error = '#ac8a8c'
+ui-status-info = '#c6a679'
+ui-status-success = '#8aac8b'
+ui-status-warning = '#aca98a'
