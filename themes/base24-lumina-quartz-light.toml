@@ -1,0 +1,93 @@
+[palettes.base24-lumina-quartz-light]
+# Lumina Quartz Light
+# Author: Razik Ikhlef (https://github.com/RazikSF)
+# Variant: light
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#eeeff0'
+background-extreme = '#ffffff'
+background = '#f6f7f8'
+background-less-extreme = '#eff0f2'
+background-least-extreme = '#e3e5e6'
+
+foreground-least-extreme = '#d3d4d6'
+foreground-less-extreme = '#858687'
+foreground = '#404246'
+foreground-extreme = '#474849'
+foreground-most-extreme = '#404246'
+
+# Base24
+base00 = '#f6f7f8'
+base01 = '#eff0f2'
+base02 = '#e3e5e6'
+base03 = '#d3d4d6'
+base04 = '#858687'
+base05 = '#404246'
+base06 = '#474849'
+base07 = '#404246'
+base08 = '#861d1d'
+base09 = '#9f420b'
+base0A = '#a16011'
+base0B = '#207f4f'
+base0C = '#037393'
+base0D = '#3566a4'
+base0E = '#653eae'
+base0F = '#a7367b'
+base10 = '#ffffff'
+base11 = '#eeeff0'
+base12 = '#601e1c'
+base13 = '#874e00'
+base14 = '#0f693e'
+base15 = '#005e79'
+base16 = '#21528e'
+base17 = '#7e3861'
+
+# Tinted8 compatibility
+palette-black = '#474849'
+palette-red = '#861d1d'
+palette-green = '#207f4f'
+palette-yellow = '#a16011'
+palette-blue = '#3566a4'
+palette-magenta = '#653eae'
+palette-cyan = '#037393'
+palette-white = '#f6f7f8'
+palette-gray = '#d3d4d6'
+palette-orange = '#9f420b'
+palette-brown = '#a7367b'
+
+palette-black-bright = '#404246'
+palette-red-bright = '#601e1c'
+palette-green-bright = '#0f693e'
+palette-yellow-bright = '#874e00'
+palette-blue-bright = '#21528e'
+palette-magenta-bright = '#7e3861'
+palette-cyan-bright = '#005e79'
+palette-white-bright = '#ffffff'
+palette-gray-bright = '#e3e5e6'
+palette-orange-bright = '#9f420b' # Fallback
+palette-brown-bright = '#a7367b' # Fallback
+
+palette-black-dim = '#404246'
+palette-red-dim = '#861d1d' # Fallback
+palette-green-dim = '#207f4f' # Fallback
+palette-yellow-dim = '#a16011' # Fallback
+palette-blue-dim = '#3566a4' # Fallback
+palette-magenta-dim = '#653eae' # Fallback
+palette-cyan-dim = '#037393' # Fallback
+palette-white-dim = '#eff0f2'
+palette-gray-dim = '#858687'
+palette-orange-dim = '#9f420b' # Fallback
+palette-brown-dim = '#a7367b' # Fallback
+
+ui-global-dark-background =	'#ffffff'
+ui-global-dark-foreground = '#404246'
+ui-global-light-background = '#eff0f2'
+ui-global-light-foreground = '#404246'
+ui-global-normal-background = '#f6f7f8'
+ui-global-normal-foreground = '#474849'
+
+ui-status-error = '#861d1d'
+ui-status-info = '#9f420b'
+ui-status-success = '#207f4f'
+ui-status-warning = '#a16011'
