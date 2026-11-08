@@ -1,0 +1,93 @@
+[palettes.base24-ataerm]
+# Aftertaerm
+# Author: Radek Polasek (https://github.com/radekp31), based on Taerminal by cozywigwam
+# Variant: dark
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#161718'
+background-extreme = '#1c1d1f'
+background = '#26282a'
+background-less-extreme = '#303234'
+background-least-extreme = '#3c3e41'
+
+foreground-least-extreme = '#6f6f6f'
+foreground-less-extreme = '#a8a8a8'
+foreground = '#f0f0f0'
+foreground-extreme = '#f1f1f1'
+foreground-most-extreme = '#ffffff'
+
+# Base24
+base00 = '#26282a'
+base01 = '#303234'
+base02 = '#3c3e41'
+base03 = '#6f6f6f'
+base04 = '#a8a8a8'
+base05 = '#f0f0f0'
+base06 = '#f1f1f1'
+base07 = '#ffffff'
+base08 = '#ff8878'
+base09 = '#ffb88a'
+base0A = '#fffcb7'
+base0B = '#b4fb73'
+base0C = '#a2e1f8'
+base0D = '#8bbce5'
+base0E = '#ffb2fe'
+base0F = '#d69a8a'
+base10 = '#1c1d1f'
+base11 = '#161718'
+base12 = '#fe978b'
+base13 = '#fffed5'
+base14 = '#d6fcba'
+base15 = '#c0e9f8'
+base16 = '#c2e3ff'
+base17 = '#ffc6ff'
+
+# Tinted8 compatibility
+palette-black = '#26282a'
+palette-red = '#ff8878'
+palette-green = '#b4fb73'
+palette-yellow = '#fffcb7'
+palette-blue = '#8bbce5'
+palette-magenta = '#ffb2fe'
+palette-cyan = '#a2e1f8'
+palette-white = '#f1f1f1'
+palette-gray = '#6f6f6f'
+palette-orange = '#ffb88a'
+palette-brown = '#d69a8a'
+
+palette-black-bright = '#303234'
+palette-red-bright = '#fe978b'
+palette-green-bright = '#d6fcba'
+palette-yellow-bright = '#fffed5'
+palette-blue-bright = '#c2e3ff'
+palette-magenta-bright = '#ffc6ff'
+palette-cyan-bright = '#c0e9f8'
+palette-white-bright = '#ffffff'
+palette-gray-bright = '#a8a8a8'
+palette-orange-bright = '#ffb88a' # Fallback
+palette-brown-bright = '#d69a8a' # Fallback
+
+palette-black-dim = '#1c1d1f'
+palette-red-dim = '#ff8878' # Fallback
+palette-green-dim = '#b4fb73' # Fallback
+palette-yellow-dim = '#fffcb7' # Fallback
+palette-blue-dim = '#8bbce5' # Fallback
+palette-magenta-dim = '#ffb2fe' # Fallback
+palette-cyan-dim = '#a2e1f8' # Fallback
+palette-white-dim = '#f0f0f0'
+palette-gray-dim = '#3c3e41'
+palette-orange-dim = '#ffb88a' # Fallback
+palette-brown-dim = '#d69a8a' # Fallback
+
+ui-global-dark-background =	'#1c1d1f'
+ui-global-dark-foreground = '#f0f0f0'
+ui-global-light-background = '#303234'
+ui-global-light-foreground = '#ffffff'
+ui-global-normal-background = '#26282a'
+ui-global-normal-foreground = '#f1f1f1'
+
+ui-status-error = '#ff8878'
+ui-status-info = '#ffb88a'
+ui-status-success = '#b4fb73'
+ui-status-warning = '#fffcb7'
