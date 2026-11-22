@@ -1,0 +1,94 @@
+[palettes.base24-penumbra-dark-contrast-plus-plus]
+# Penumbra Dark Contrast Plus Plus
+# Description: Perceptually uniform colour scheme modelled after natural sunlight and shade (Revised CAM16-UCS + H-K). https://github.com/nealmckee/penumbra
+# Author: Neal McKee (https://github.com/nealmckee/penumbra)
+# Variant: dark
+# System: base24
+
+# Background and foreground
+background-most-extreme = '#07080b'
+background-extreme = '#07080b'
+background = '#101317'
+background-less-extreme = '#1b1e23'
+background-least-extreme = '#393c42'
+
+foreground-least-extreme = '#575b62'
+foreground-less-extreme = '#88898b'
+foreground = '#a9a9a9'
+foreground-extreme = '#c2c0bd'
+foreground-most-extreme = '#eee8dd'
+
+# Base24
+base00 = '#101317'
+base01 = '#1b1e23'
+base02 = '#393c42'
+base03 = '#575b62'
+base04 = '#88898b'
+base05 = '#a9a9a9'
+base06 = '#c2c0bd'
+base07 = '#eee8dd'
+base08 = '#e17782'
+base09 = '#d88f4c'
+base0A = '#b4a724'
+base0B = '#62b06c'
+base0C = '#00a8a4'
+base0D = '#009edb'
+base0E = '#8a90d4'
+base0F = '#be7fc4'
+base10 = '#07080b'
+base11 = '#07080b'
+base12 = '#e17782'
+base13 = '#b4a724'
+base14 = '#62b06c'
+base15 = '#00a8a4'
+base16 = '#009edb'
+base17 = '#be7fc4'
+
+# Tinted8 compatibility
+palette-black = '#101317'
+palette-red = '#e17782'
+palette-green = '#62b06c'
+palette-yellow = '#b4a724'
+palette-blue = '#009edb'
+palette-magenta = '#8a90d4'
+palette-cyan = '#00a8a4'
+palette-white = '#c2c0bd'
+palette-gray = '#575b62'
+palette-orange = '#d88f4c'
+palette-brown = '#be7fc4'
+
+palette-black-bright = '#1b1e23'
+palette-red-bright = '#e17782'
+palette-green-bright = '#62b06c'
+palette-yellow-bright = '#b4a724'
+palette-blue-bright = '#009edb'
+palette-magenta-bright = '#be7fc4'
+palette-cyan-bright = '#00a8a4'
+palette-white-bright = '#eee8dd'
+palette-gray-bright = '#88898b'
+palette-orange-bright = '#d88f4c' # Fallback
+palette-brown-bright = '#be7fc4' # Fallback
+
+palette-black-dim = '#07080b'
+palette-red-dim = '#e17782' # Fallback
+palette-green-dim = '#62b06c' # Fallback
+palette-yellow-dim = '#b4a724' # Fallback
+palette-blue-dim = '#009edb' # Fallback
+palette-magenta-dim = '#8a90d4' # Fallback
+palette-cyan-dim = '#00a8a4' # Fallback
+palette-white-dim = '#a9a9a9'
+palette-gray-dim = '#393c42'
+palette-orange-dim = '#d88f4c' # Fallback
+palette-brown-dim = '#be7fc4' # Fallback
+
+ui-global-dark-background =	'#07080b'
+ui-global-dark-foreground = '#a9a9a9'
+ui-global-light-background = '#1b1e23'
+ui-global-light-foreground = '#eee8dd'
+ui-global-normal-background = '#101317'
+ui-global-normal-foreground = '#c2c0bd'
+
+ui-status-error = '#e17782'
+ui-status-info = '#d88f4c'
+ui-status-success = '#62b06c'
+ui-status-warning = '#b4a724'
